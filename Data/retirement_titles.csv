@@ -1,0 +1,2001 @@
+﻿emp_no,first_name,last_name,title,from_date,to_date
+10001,Georgi,Facello,Senior Engineer,6/26/86,1/1/99
+10004,Chirstian,Koblick,Engineer,12/1/86,12/1/95
+10004,Chirstian,Koblick,Senior Engineer,12/1/95,1/1/99
+10005,Kyoichi,Maliniak,Senior Staff,9/12/96,1/1/99
+10005,Kyoichi,Maliniak,Staff,9/12/89,9/12/96
+10006,Anneke,Preusig,Senior Engineer,8/5/90,1/1/99
+10009,Sumant,Peac,Assistant Engineer,2/18/85,2/18/90
+10009,Sumant,Peac,Engineer,2/18/90,2/18/95
+10009,Sumant,Peac,Senior Engineer,2/18/95,1/1/99
+10011,Mary,Sluis,Staff,1/22/90,11/9/96
+10018,Kazuhide,Peha,Engineer,4/3/87,4/3/95
+10018,Kazuhide,Peha,Senior Engineer,4/3/95,1/1/99
+10019,Lillian,Haddadi,Staff,4/30/99,1/1/99
+10020,Mayuko,Warwick,Engineer,12/30/97,1/1/99
+10022,Shahaf,Famili,Engineer,9/3/99,1/1/99
+10023,Bojan,Montemayor,Engineer,9/27/99,1/1/99
+10026,Yongqiao,Berztiss,Engineer,3/20/95,3/19/01
+10026,Yongqiao,Berztiss,Senior Engineer,3/19/01,1/1/99
+10035,Alain,Chappelet,Engineer,9/5/88,9/5/96
+10035,Alain,Chappelet,Senior Engineer,9/5/96,1/1/99
+10047,Zvonko,Nyanchama,Engineer,3/31/89,3/31/98
+10047,Zvonko,Nyanchama,Senior Engineer,3/31/98,1/1/99
+10051,Hidefumi,Caine,Engineer,10/15/92,10/15/98
+10051,Hidefumi,Caine,Senior Engineer,10/15/98,1/1/99
+10053,Sanjiv,Zschoche,Senior Staff,11/13/94,1/1/99
+10057,Ebbe,Callaway,Engineer,1/15/92,1/15/00
+10057,Ebbe,Callaway,Senior Engineer,1/15/00,1/1/99
+10058,Berhard,McFarlin,Senior Staff,4/25/88,1/1/99
+10059,Alejandro,McAlpine,Senior Staff,6/26/91,1/1/99
+10063,Gino,Leonhardt,Senior Engineer,4/8/89,1/1/99
+10066,Kwee,Schusler,Assistant Engineer,2/26/86,2/26/92
+10066,Kwee,Schusler,Engineer,2/26/92,2/25/98
+10066,Kwee,Schusler,Senior Engineer,2/25/98,1/1/99
+10067,Claudi,Stavenow,Engineer,3/4/87,3/3/96
+10067,Claudi,Stavenow,Senior Engineer,3/3/96,1/1/99
+10070,Reuven,Garigliano,Technique Leader,10/14/85,1/1/99
+10072,Hironoby,Sidou,Engineer,5/21/89,5/21/95
+10072,Hironoby,Sidou,Senior Engineer,5/21/95,1/1/99
+10073,Shir,McClurg,Engineer,2/2/98,2/22/98
+10074,Mokhtar,Bernatsky,Technique Leader,8/13/90,1/1/99
+10076,Erez,Ritzmann,Senior Engineer,7/15/96,1/1/99
+10088,Jungsoon,Syrzycki,Senior Staff,9/2/93,1/1/99
+10088,Jungsoon,Syrzycki,Staff,9/2/88,9/2/93
+10091,Amabile,Gomatam,Engineer,11/18/92,11/18/01
+10091,Amabile,Gomatam,Senior Engineer,11/18/01,1/1/99
+10096,Jayson,Mandell,Engineer,1/23/99,1/1/99
+10097,Remzi,Waschkowski,Senior Staff,9/14/96,1/1/99
+10097,Remzi,Waschkowski,Staff,9/15/90,9/14/96
+10100,Hironobu,Haraldson,Senior Staff,9/21/94,1/1/99
+10100,Hironobu,Haraldson,Staff,9/21/87,9/21/94
+10101,Perla,Heyers,Staff,10/14/98,9/23/00
+10103,Akemi,Birch,Engineer,1/12/98,1/1/99
+10106,Eben,Aingworth,Engineer,10/27/91,10/26/97
+10106,Eben,Aingworth,Senior Engineer,10/26/97,1/1/99
+10108,Lunjin,Giveon,Staff,3/20/99,10/20/01
+10116,Dayanand,Czap,Senior Engineer,2/27/94,11/1/98
+10126,Kayoko,Valtorta,Senior Staff,9/8/91,1/1/99
+10126,Kayoko,Valtorta,Staff,9/8/85,9/8/91
+10127,Subir,Baja,Senior Engineer,5/17/91,1/1/99
+10129,Armond,Peir,Technique Leader,1/16/96,1/1/99
+10130,Nishit,Casperson,Senior Engineer,6/21/88,1/1/99
+10131,Magdalena,Eldridge,Engineer,9/17/99,12/6/99
+10134,Diederik,Siprelle,Engineer,12/12/87,12/12/94
+10134,Diederik,Siprelle,Senior Engineer,12/12/94,1/1/99
+10138,Perry,Shimshoni,Engineer,3/3/92,3/3/01
+10138,Perry,Shimshoni,Senior Engineer,3/3/01,1/1/99
+10149,Xiadong,Perry,Staff,1/28/94,8/27/96
+10150,Zhenbing,Perng,Engineer,11/16/86,11/16/95
+10150,Zhenbing,Perng,Senior Engineer,11/16/95,1/1/99
+10152,Jaques,Munro,Engineer,1/27/86,8/3/87
+10153,Heekeun,Majewski,Assistant Engineer,1/8/00,1/1/99
+10157,Nigel,Aloisi,Senior Engineer,12/10/97,1/1/99
+10159,Serif,Buescher,Senior Engineer,6/12/96,1/1/99
+10160,Debatosh,Khasidashvili,Senior Staff,12/6/00,1/1/99
+10160,Debatosh,Khasidashvili,Staff,12/6/93,12/6/00
+10161,Hairong,Mellouli,Engineer,6/9/91,1/5/94
+10163,Karsten,Szmurlo,Senior Staff,2/2/92,1/1/99
+10166,Samphel,Siegrist,Engineer,9/2/96,1/1/99
+10177,Pragnesh,Iisaka,Staff,2/6/93,3/17/94
+10183,Mechthild,Bonifati,Staff,8/11/96,1/1/99
+10186,Shigehito,Kropatsch,Staff,12/25/96,8/16/97
+10189,Khalid,Erva,Engineer,9/13/92,6/29/93
+10194,Josyula,Hofmeyr,Senior Staff,2/14/02,1/1/99
+10194,Josyula,Hofmeyr,Staff,2/14/97,2/14/02
+10196,Marc,Hellwagner,Staff,1/31/99,1/1/99
+10198,Pranav,Furedi,Engineer,8/31/85,8/31/93
+10198,Pranav,Furedi,Senior Engineer,8/31/93,1/1/99
+10203,Steen,Escriba,Senior Staff,4/6/95,1/1/99
+10203,Steen,Escriba,Staff,4/6/89,4/6/95
+10205,Mabhin,Leijenhorst,Senior Engineer,8/23/93,1/1/99
+10207,Girolamo,Anandan,Engineer,10/11/92,10/11/97
+10207,Girolamo,Anandan,Senior Engineer,10/11/97,1/1/99
+10215,Xiaobin,Duclos,Senior Staff,11/23/91,1/1/99
+10217,Yongmin,Roison,Technique Leader,5/12/86,8/5/93
+10219,Genta,Kolvik,Senior Staff,3/31/93,1/1/99
+10224,Leon,Trogemann,Engineer,1/9/88,1/9/96
+10224,Leon,Trogemann,Senior Engineer,1/9/96,1/1/99
+10228,Karoline,Cesareni,Senior Staff,12/22/98,1/1/99
+10228,Karoline,Cesareni,Staff,12/22/92,12/22/98
+10229,Ulises,Takanami,Engineer,2/20/96,6/30/00
+10230,Clyde,Vernadat,Senior Staff,6/16/02,1/1/99
+10230,Clyde,Vernadat,Staff,6/16/96,6/16/02
+10233,Lein,Vendrig,Senior Staff,4/28/00,1/1/99
+10233,Lein,Vendrig,Staff,4/29/94,4/28/00
+10237,Yannis,Mandell,Senior Staff,8/11/97,2/21/00
+10237,Yannis,Mandell,Staff,8/11/89,8/11/97
+10239,Nikolaos,Llado,Staff,5/4/96,1/1/99
+10240,Remko,Maccarone,Engineer,10/6/98,1/1/99
+10248,Frederique,Tempesti,Senior Staff,8/12/97,1/1/99
+10248,Frederique,Tempesti,Staff,8/13/91,8/12/97
+10249,Marie,Boreale,Engineer,12/8/91,12/7/00
+10249,Marie,Boreale,Senior Engineer,12/7/00,1/1/99
+10258,Basil,Ishibashi,Assistant Engineer,5/17/85,5/17/91
+10258,Basil,Ishibashi,Engineer,5/17/91,5/16/97
+10258,Basil,Ishibashi,Senior Engineer,5/16/97,1/1/99
+10262,Mahendra,Maraist,Staff,1/22/96,1/1/99
+10272,Yishai,Cannane,Staff,10/23/97,1/1/99
+10278,Lubomir,Nitsch,Engineer,7/2/93,2/14/97
+10281,Moty,Kusakari,Engineer,12/3/94,12/2/00
+10281,Moty,Kusakari,Senior Engineer,12/2/00,1/1/99
+10282,Hercules,Benzmuller,Assistant Engineer,5/2/96,5/2/01
+10282,Hercules,Benzmuller,Engineer,5/2/01,1/1/99
+10283,Kauko,Birjandi,Engineer,5/25/88,5/26/95
+10283,Kauko,Birjandi,Senior Engineer,5/26/95,1/1/99
+10284,Masali,Murrill,Engineer,7/6/99,1/1/99
+10286,Saddek,Gopalakrishnan,Staff,12/24/94,1/24/99
+10294,Rutger,Miara,Senior Engineer,1/30/99,5/4/99
+10295,Kristine,Velardi,Senior Staff,6/18/00,1/1/99
+10295,Kristine,Velardi,Staff,6/19/95,6/18/00
+10298,Dietrich,DuCasse,Staff,4/27/99,1/1/99
+10302,Faiza,Baer,Senior Staff,7/22/94,11/9/99
+10302,Faiza,Baer,Staff,7/22/86,7/22/94
+10305,Hirochika,Piancastelli,Engineer,10/31/88,6/2/92
+10306,Heng,Kilgour,Staff,9/6/93,1/1/99
+10307,Nikolaos,Leaver,Engineer,10/16/99,1/1/99
+10321,Guenter,Ravishankar,Staff,7/24/95,8/14/99
+10322,Isamu,Dahlbom,Engineer,1/29/90,1/29/97
+10322,Isamu,Dahlbom,Senior Engineer,1/29/97,1/1/99
+10325,Arunachalam,Badr,Senior Staff,9/20/90,1/1/99
+10326,Masali,Czap,Staff,9/2/98,1/1/99
+10327,Roded,Facello,Engineer,9/18/87,5/22/93
+10328,Serenella,Kawashima,Engineer,7/17/98,1/1/99
+10333,Snehasis,Dymetman,Engineer,1/16/93,1/16/98
+10333,Snehasis,Dymetman,Senior Engineer,1/16/98,1/1/99
+10340,Djelloul,Laventhal,Senior Staff,3/30/93,1/1/99
+10340,Djelloul,Laventhal,Staff,3/30/88,3/30/93
+10343,Dinah,Syrzycki,Senior Engineer,10/3/97,1/1/99
+10347,Pradeep,Kaminger,Staff,2/20/98,1/1/99
+10349,Oksana,Brodie,Senior Staff,9/27/97,1/1/99
+10349,Oksana,Brodie,Staff,9/28/91,9/27/97
+10350,Kristen,Kavvadias,Assistant Engineer,5/11/91,5/10/97
+10350,Kristen,Kavvadias,Engineer,5/10/97,1/16/98
+10353,Phule,Hammerschmidt,Senior Staff,8/24/89,1/1/99
+10355,Satyanarayana,Cochrane,Staff,1/26/96,1/1/99
+10356,Vasilis,Standera,Senior Staff,6/26/95,1/1/99
+10358,Qunsheng,Tagansky,Technique Leader,2/19/91,1/1/99
+10363,Toshiki,Muniz,Assistant Engineer,9/11/85,2/12/93
+10364,Nakhoon,Dengi,Senior Engineer,11/14/85,1/1/99
+10367,Hyuckchul,Gini,Senior Staff,6/23/00,1/1/99
+10367,Hyuckchul,Gini,Staff,6/24/91,6/23/00
+10372,Anneli,Frijda,Technique Leader,7/30/85,1/1/99
+10374,Willard,Rosin,Staff,12/8/93,3/29/96
+10377,Marl,Grospietsch,Senior Engineer,8/24/96,1/1/99
+10382,Shirish,Dredge,Engineer,7/1/98,10/27/00
+10387,Parto,Wrigley,Senior Staff,1/7/99,1/1/99
+10387,Parto,Wrigley,Staff,1/7/94,1/7/99
+10388,Hironoby,Kaiser,Staff,5/28/99,1/1/99
+10389,Make,Peir,Technique Leader,5/13/99,1/1/99
+10395,Takahiro,Deverell,Engineer,8/10/98,8/13/01
+10396,Sibyl,Rahier,Senior Engineer,1/11/86,1/1/99
+10397,Irena,Reutenauer,Technique Leader,5/21/93,1/1/99
+10402,Volkmar,Ebeling,Technique Leader,1/2/87,1/1/99
+10404,Prodip,Rosti,Engineer,8/28/88,8/28/96
+10404,Prodip,Rosti,Senior Engineer,8/28/96,1/1/99
+10407,Ulf,Siepmann,Senior Staff,10/30/99,1/1/99
+10413,Danel,Impagliazzo,Senior Staff,12/26/97,1/1/99
+10413,Danel,Impagliazzo,Staff,12/27/91,12/26/97
+10414,Yinlin,Alpin,Senior Engineer,5/30/90,12/2/94
+10418,Candida,Porotnikoff,Staff,10/4/96,1/1/99
+10422,Greger,Rubsam,Engineer,1/3/95,1/1/99
+10426,Arunas,Luce,Technique Leader,7/6/85,1/1/99
+10429,Martien,Improta,Senior Engineer,9/23/88,1/1/99
+10432,Hisao,Tiemann,Senior Staff,8/12/96,1/1/99
+10432,Hisao,Tiemann,Staff,8/13/90,8/12/96
+10433,Reuven,Dengi,Assistant Engineer,11/26/92,11/27/99
+10433,Reuven,Dengi,Engineer,11/27/99,1/1/99
+10442,Volkmar,Unno,Senior Staff,2/12/99,3/13/01
+10442,Volkmar,Unno,Staff,2/12/92,2/12/99
+10443,Shichao,Litvinov,Senior Engineer,8/1/89,7/6/02
+10451,Bodh,Ranta,Assistant Engineer,3/12/88,3/12/93
+10451,Bodh,Ranta,Engineer,3/12/93,3/12/98
+10451,Bodh,Ranta,Senior Engineer,3/12/98,1/1/99
+10453,Tsvetan,Matzel,Senior Staff,4/2/93,1/1/99
+10453,Tsvetan,Matzel,Staff,4/2/85,4/2/93
+10463,Ung,Zaiane,Staff,2/17/94,1/1/99
+10466,Jiakeng,Himler,Staff,8/22/97,8/15/00
+10477,Guoxiang,Trogemann,Engineer,5/26/97,5/26/02
+10477,Guoxiang,Trogemann,Senior Engineer,5/26/02,1/1/99
+10486,Amstein,Kossowski,Engineer,10/8/87,10/7/96
+10486,Amstein,Kossowski,Senior Engineer,10/7/96,1/1/99
+10494,Yakkov,Servieres,Engineer,12/18/91,12/17/00
+10494,Yakkov,Servieres,Senior Engineer,12/17/00,1/1/99
+10497,Pramod,Rabehasaina,Engineer,1/22/92,1/22/99
+10497,Pramod,Rabehasaina,Senior Engineer,1/22/99,1/1/99
+10499,Maik,Luft,Senior Staff,7/31/01,1/1/99
+10499,Maik,Luft,Staff,7/31/96,7/31/01
+10503,Dannz,Pell,Engineer,3/13/97,1/1/99
+10504,Xiong,Varker,Staff,10/19/99,1/1/99
+10509,Abdelwaheb,Riesenhuber,Senior Staff,10/6/97,1/1/99
+10509,Abdelwaheb,Riesenhuber,Staff,10/6/92,10/6/97
+10512,Udi,Gihr,Senior Staff,11/28/98,1/1/99
+10512,Udi,Gihr,Staff,11/28/89,11/28/98
+10517,Tiina,Speek,Senior Staff,12/25/90,1/1/99
+10519,Yonghoan,Alencar,Senior Staff,12/5/00,10/13/01
+10519,Yonghoan,Alencar,Staff,12/5/92,12/5/00
+10522,Marke,Cesareni,Senior Staff,12/12/95,1/1/99
+10522,Marke,Cesareni,Staff,12/12/86,12/12/95
+10529,Ymte,Yetto,Assistant Engineer,7/4/97,1/1/99
+10531,Oguz,Gimbel,Staff,3/16/95,1/1/99
+10538,Przemyslawa,Falby,Senior Engineer,7/23/87,12/13/98
+10541,Godehard,Eiter,Staff,2/28/86,10/1/86
+10542,Yannis,Couchot,Senior Engineer,2/7/92,1/1/99
+10548,Ramalingam,Gunderson,Senior Staff,7/4/93,1/1/99
+10548,Ramalingam,Gunderson,Staff,7/4/86,7/4/93
+10552,Kazuhito,Shiratori,Senior Engineer,8/31/98,1/1/99
+10564,Jianhao,Thisen,Engineer,11/23/95,11/22/00
+10564,Jianhao,Thisen,Senior Engineer,11/22/00,1/1/99
+10568,Gao,Poulakidas,Staff,7/8/95,1/1/99
+10575,Theirry,Yeung,Senior Engineer,10/4/88,11/22/00
+10586,Kirk,Vuskovic,Engineer,2/4/92,2/4/00
+10586,Kirk,Vuskovic,Senior Engineer,2/4/00,1/1/99
+10591,Hidde,Hettesheimer,Staff,6/18/87,9/20/88
+10593,Falguni,Kenevan,Engineer,9/12/90,9/12/99
+10593,Falguni,Kenevan,Senior Engineer,9/12/99,1/1/99
+10596,Sanjit,Coors,Senior Staff,5/23/01,1/1/99
+10596,Sanjit,Coors,Staff,5/23/96,5/23/01
+10603,Wayne,Restivo,Staff,7/20/95,1/1/99
+10608,Adhemar,Talmor,Senior Engineer,5/25/86,6/2/91
+10610,Irena,Roccetti,Engineer,3/30/97,1/1/99
+10614,Gila,Ozeri,Engineer,3/3/90,3/3/98
+10614,Gila,Ozeri,Senior Engineer,3/3/98,1/1/99
+10615,Keung,Delgrande,Senior Staff,3/10/02,1/1/99
+10615,Keung,Delgrande,Staff,3/10/96,3/10/02
+10617,Hidekazu,Angel,Senior Staff,10/30/91,10/3/01
+10623,Aleksander,Danlos,Engineer,1/15/92,1/15/99
+10623,Aleksander,Danlos,Senior Engineer,1/15/99,1/1/99
+10624,Sham,Gyorkos,Technique Leader,5/7/90,1/1/99
+10628,Krisda,Krogh,Assistant Engineer,3/14/87,3/14/94
+10628,Krisda,Krogh,Engineer,3/14/94,3/14/01
+10628,Krisda,Krogh,Senior Engineer,3/14/01,1/1/99
+10629,Lalit,Francisci,Staff,10/20/99,12/7/01
+10630,Bezalel,Katzenelson,Engineer,1/13/97,1/1/99
+10631,Inderjeet,Chaudhuri,Engineer,10/18/94,1/1/99
+10634,Nahid,Chepyzhov,Assistant Engineer,11/11/90,11/11/95
+10634,Nahid,Chepyzhov,Engineer,11/11/95,11/10/00
+10634,Nahid,Chepyzhov,Senior Engineer,11/10/00,1/1/99
+10636,Saeko,Porotnikoff,Staff,9/25/96,1/1/99
+10637,Heejo,Frolund,Senior Staff,7/11/98,1/19/00
+10637,Heejo,Frolund,Staff,7/11/93,7/11/98
+10639,Pramod,Erol,Engineer,10/25/92,10/26/99
+10639,Pramod,Erol,Senior Engineer,10/26/99,1/1/99
+10641,Guozhong,Zucker,Assistant Engineer,3/21/93,3/21/99
+10641,Guozhong,Zucker,Engineer,3/21/99,1/1/99
+10642,Hirochika,Narlikar,Engineer,10/5/98,1/1/99
+10653,Otmar,Feinberg,Senior Engineer,4/30/87,1/1/99
+10667,Makato,Cusworth,Senior Staff,7/28/99,1/1/99
+10671,Parviz,Rebaine,Senior Staff,9/13/01,1/1/99
+10671,Parviz,Rebaine,Staff,9/14/95,9/13/01
+10672,Bluma,Zeilberger,Senior Engineer,9/29/91,4/19/96
+10676,Valeri,Danley,Engineer,9/4/99,1/1/99
+10683,Guiseppe,Stranks,Senior Engineer,6/23/97,1/1/99
+10693,Berhard,Daescu,Senior Staff,1/8/91,1/1/99
+10693,Berhard,Daescu,Staff,1/8/86,1/8/91
+10694,Rildo,Straney,Senior Staff,1/25/93,7/11/01
+10694,Rildo,Straney,Staff,1/26/88,1/25/93
+10696,Unal,Fendler,Technique Leader,9/9/91,1/1/99
+10702,Bader,Szemeredi,Senior Engineer,1/14/91,1/1/99
+10712,Uma,Koprowski,Engineer,8/18/94,8/18/01
+10712,Uma,Koprowski,Senior Engineer,8/18/01,1/1/99
+10718,Adib,Rullman,Engineer,7/21/88,7/21/97
+10718,Adib,Rullman,Senior Engineer,7/21/97,1/1/99
+10726,Zita,Minakawa,Engineer,2/25/92,2/24/01
+10726,Zita,Minakawa,Senior Engineer,2/24/01,1/1/99
+10731,Fumitaka,Peak,Senior Staff,2/20/94,10/9/00
+10731,Fumitaka,Peak,Staff,2/20/87,2/20/94
+10734,Sachar,Erdi,Engineer,12/19/95,1/1/99
+10741,Sven,Huttel,Senior Staff,1/6/97,1/1/99
+10741,Sven,Huttel,Staff,1/6/89,1/6/97
+10742,Shim,Wiegley,Technique Leader,4/3/97,1/1/99
+10745,Poorav,Ranze,Engineer,1/23/88,1/22/97
+10745,Poorav,Ranze,Senior Engineer,1/22/97,1/1/99
+10747,Falguni,Khalid,Senior Engineer,10/8/90,9/20/99
+10749,King,Brendel,Engineer,9/26/85,9/26/90
+10749,King,Brendel,Senior Engineer,9/26/90,1/1/99
+10750,Roddy,Demeyer,Technique Leader,11/6/98,1/1/99
+10751,Jordanka,Ushiama,Engineer,12/14/99,12/5/00
+10764,Yunming,Beetstra,Engineer,11/27/89,11/27/98
+10764,Yunming,Beetstra,Senior Engineer,11/27/98,1/1/99
+10767,Monique,Doering,Staff,7/15/97,1/1/99
+10768,Ishfaq,Candan,Engineer,7/4/85,7/4/90
+10768,Ishfaq,Candan,Senior Engineer,7/4/90,1/1/99
+10777,Mizuhito,Kemmerer,Engineer,3/17/90,3/16/96
+10777,Mizuhito,Kemmerer,Senior Engineer,3/16/96,3/27/01
+10778,Selwyn,Merey,Senior Staff,7/4/86,1/1/99
+10780,Goncalo,Staudhammer,Engineer,8/1/94,8/18/96
+10782,Kish,Perna,Staff,7/6/97,3/30/02
+10791,Tadahiko,Sgarro,Engineer,7/30/88,7/31/95
+10791,Tadahiko,Sgarro,Senior Engineer,7/31/95,1/1/99
+10795,Supot,Naudin,Senior Staff,5/3/99,1/1/99
+10795,Supot,Naudin,Staff,5/3/93,5/3/99
+10801,Uinam,Zschoche,Engineer,4/7/98,1/15/01
+10803,Katsuyuki,Velasco,Engineer,4/20/88,4/20/97
+10803,Katsuyuki,Velasco,Senior Engineer,4/20/97,4/2/02
+10808,Chenxi,Leijenhorst,Senior Engineer,3/7/87,1/1/99
+10811,Ashish,Fortenbacher,Engineer,7/8/97,1/1/99
+10813,Shalesh,Shumilov,Senior Staff,4/27/90,1/1/99
+10814,Nidapan,Dymetman,Senior Staff,7/17/98,1/1/99
+10814,Nidapan,Dymetman,Staff,7/17/93,7/17/98
+10826,Arnd,Anandan,Senior Engineer,1/22/93,1/1/99
+10827,Willard,Danley,Staff,11/7/96,1/1/99
+10829,Alper,Narahara,Staff,7/21/93,11/29/93
+10830,Fen,Fiebach,Senior Staff,8/23/97,1/1/99
+10830,Fen,Fiebach,Staff,8/24/91,8/23/97
+10831,Toong,Driscoll,Technique Leader,2/22/98,1/1/99
+10833,Krisda,Gecseg,Technique Leader,12/23/98,1/1/99
+10834,Huiqun,Rajcani,Assistant Engineer,11/24/90,11/24/99
+10834,Huiqun,Rajcani,Engineer,11/24/99,1/1/99
+10835,Tomoyuki,Kermarrec,Engineer,8/22/95,1/1/99
+10836,Jianhua,Leivant,Senior Staff,8/10/87,1/1/99
+10844,Dipayan,Koprowski,Engineer,4/25/97,1/1/99
+10846,Tokuyasu,Serre,Senior Engineer,1/17/95,1/1/99
+10847,Theirry,Danley,Senior Staff,7/24/92,1/1/99
+10847,Theirry,Danley,Staff,7/25/86,7/24/92
+10848,Fen,Bratsberg,Engineer,4/20/85,4/20/92
+10848,Fen,Bratsberg,Senior Engineer,4/20/92,1/1/99
+10849,Makato,Mayerwieser,Assistant Engineer,6/25/95,6/24/01
+10849,Makato,Mayerwieser,Engineer,6/24/01,1/1/99
+10854,Jagoda,Nannarelli,Engineer,7/13/98,1/1/99
+10858,Kenroku,Gonthier,Engineer,1/1/97,1/1/02
+10858,Kenroku,Gonthier,Senior Engineer,1/1/02,1/1/99
+10867,Billur,Gyorkos,Engineer,3/23/97,3/22/02
+10871,Aram,Gilg,Staff,6/16/99,1/1/99
+10872,Karoline,Speel,Senior Staff,9/5/96,1/1/99
+10872,Karoline,Speel,Staff,9/6/90,9/5/96
+10873,Sukumar,Wegerle,Staff,3/23/94,1/1/99
+10876,Vincent,Papastamatiou,Staff,1/29/95,9/14/99
+10878,Lakshmi,Deville,Staff,4/25/97,1/1/99
+10879,Muzhong,Chleq,Senior Engineer,8/15/85,1/1/99
+10882,Fun,Heuser,Engineer,4/29/99,1/1/99
+10883,Shimshon,Champarnaud,Engineer,12/28/96,1/1/99
+10885,Rayond,Cronau,Senior Staff,8/19/91,1/1/99
+10887,Lunjin,DeMori,Senior Engineer,3/17/89,1/1/99
+10895,Vishwani,Petersohn,Staff,4/26/86,4/13/87
+10900,Ferdinand,Prenel,Senior Engineer,9/7/95,1/1/99
+10906,Munehiro,Carrere,Staff,10/18/98,1/1/99
+10909,Georgi,Atchley,Engineer,12/26/93,12/26/00
+10909,Georgi,Atchley,Senior Engineer,12/26/00,1/1/99
+10912,Oscal,Fasbender,Senior Staff,4/23/91,9/26/99
+10912,Oscal,Fasbender,Staff,4/23/86,4/23/91
+10913,Narain,Thummel,Staff,10/25/98,1/1/99
+10918,Susumu,Reghbati,Staff,1/29/90,10/10/90
+10920,Ronghao,Narahara,Senior Staff,2/23/98,1/1/99
+10920,Ronghao,Narahara,Staff,2/24/92,2/23/98
+10921,Mara,Bahi,Engineer,7/27/86,7/27/95
+10921,Mara,Bahi,Senior Engineer,7/27/95,1/1/99
+10922,Kyoichi,Wossner,Staff,2/2/96,1/16/99
+10924,Hironoby,Atchley,Senior Staff,8/14/97,1/1/99
+10924,Hironoby,Atchley,Staff,8/14/88,8/14/97
+10926,Leni,Eppinger,Engineer,4/30/90,4/30/95
+10926,Leni,Eppinger,Senior Engineer,4/30/95,1/1/99
+10927,Gal,Scallan,Senior Staff,9/12/93,1/1/99
+10927,Gal,Scallan,Staff,9/12/86,9/12/93
+10930,Arch,Minakawa,Engineer,11/22/91,11/22/98
+10930,Arch,Minakawa,Senior Engineer,11/22/98,1/1/99
+10932,Avishai,Picci,Engineer,9/9/94,9/9/99
+10932,Avishai,Picci,Senior Engineer,9/9/99,1/1/99
+10936,Mountaz,Schicker,Senior Staff,5/8/96,1/1/99
+10936,Mountaz,Schicker,Staff,5/9/90,5/8/96
+10940,Aleksander,Fioravanti,Engineer,6/30/97,12/2/99
+10942,Toshimitsu,Larfeldt,Engineer,1/21/96,1/1/99
+10943,Berna,Skafidas,Engineer,5/22/93,5/22/99
+10943,Berna,Skafidas,Senior Engineer,5/22/99,1/1/99
+10944,Remko,Zyda,Senior Engineer,9/7/95,1/1/99
+10947,Gor,Usery,Senior Staff,11/15/01,1/1/99
+10947,Gor,Usery,Staff,11/16/95,11/15/01
+10948,Shigehito,Brodie,Senior Engineer,9/30/96,6/23/97
+10949,Shigeichiro,Wroclawski,Senior Staff,6/28/96,1/1/99
+10949,Shigeichiro,Wroclawski,Staff,6/29/90,6/28/96
+10956,Arno,Picel,Engineer,12/2/95,1/1/99
+10965,Eckart,Braunschweig,Senior Staff,7/29/86,1/1/99
+10969,Premal,Noriega,Senior Engineer,5/12/94,1/1/99
+10971,Isamu,Vadhan,Technique Leader,7/30/91,10/24/98
+10974,Muneo,Papsdorf,Senior Engineer,5/17/99,1/1/99
+10985,Chiradeep,Furedi,Engineer,2/11/99,3/10/99
+10986,Masako,Schiper,Technique Leader,10/11/85,1/1/99
+10987,Flemming,Baezner,Engineer,5/21/97,1/1/99
+10988,Chinya,Deyuan,Senior Engineer,6/19/85,1/1/99
+10989,Sumali,Candan,Senior Staff,7/20/91,1/1/99
+10989,Sumali,Candan,Staff,7/20/85,7/20/91
+10990,Shin,Foote,Technique Leader,8/6/90,1/1/99
+10996,Matk,Rahimi,Senior Staff,2/7/96,1/1/99
+10996,Matk,Rahimi,Staff,2/7/90,2/7/96
+11002,Bluma,Ulupinar,Senior Staff,11/21/98,12/7/01
+11004,JoAnna,Decleir,Engineer,1/19/92,1/18/98
+11004,JoAnna,Decleir,Senior Engineer,1/18/98,1/1/99
+11009,Alper,Axelband,Senior Staff,9/9/93,1/1/99
+11009,Alper,Axelband,Staff,9/9/86,9/9/93
+11012,Taegyun,Speckmann,Staff,7/6/96,1/1/99
+11019,Leon,Huttel,Engineer,5/24/92,5/24/97
+11019,Leon,Huttel,Senior Engineer,5/24/97,1/1/99
+11021,Srinidhi,Henders,Staff,2/2/98,1/1/99
+11024,Manton,Collavizza,Staff,4/5/95,5/18/01
+11027,Remzi,Cappello,Assistant Engineer,5/7/86,5/7/91
+11027,Remzi,Cappello,Engineer,5/7/91,5/6/96
+11027,Remzi,Cappello,Senior Engineer,5/6/96,1/1/99
+11028,Miyeon,Krider,Engineer,6/18/86,6/18/91
+11028,Miyeon,Krider,Senior Engineer,6/18/91,9/4/97
+11031,Ottavia,Walstra,Senior Staff,10/24/93,1/1/99
+11031,Ottavia,Walstra,Staff,10/24/85,10/24/93
+11032,Erez,Schaaf,Staff,6/6/94,1/1/99
+11037,Lansing,Maliniak,Engineer,1/28/88,1/28/95
+11037,Lansing,Maliniak,Senior Engineer,1/28/95,1/1/99
+11038,Jinya,Beidas,Senior Staff,7/15/92,1/1/99
+11038,Jinya,Beidas,Staff,7/15/85,7/15/92
+11042,Gou,Breugel,Engineer,6/21/93,6/21/00
+11042,Gou,Breugel,Senior Engineer,6/21/00,1/1/99
+11048,Jaques,Demke,Senior Staff,5/27/99,1/1/99
+11050,Elvis,Katiyar,Senior Staff,5/6/91,1/1/99
+11050,Elvis,Katiyar,Staff,5/6/86,5/6/91
+11051,Przemyslawa,Erol,Engineer,3/27/91,3/26/00
+11051,Przemyslawa,Erol,Senior Engineer,3/26/00,1/1/99
+11056,Palash,Speel,Staff,7/1/97,1/1/99
+11060,Genevieve,Pokrovskii,Staff,5/3/91,9/27/91
+11061,Pintsang,Erni,Senior Staff,2/19/02,1/1/99
+11061,Pintsang,Erni,Staff,2/19/93,2/19/02
+11064,Shawna,Vieri,Assistant Engineer,2/28/90,2/28/96
+11064,Shawna,Vieri,Engineer,2/28/96,2/27/02
+11064,Shawna,Vieri,Senior Engineer,2/27/02,1/1/99
+11066,Shaz,Langford,Senior Staff,4/30/96,1/1/99
+11070,Adib,Raney,Engineer,7/24/85,7/24/91
+11070,Adib,Raney,Senior Engineer,7/24/91,1/1/99
+11071,Kwan,Sigstam,Engineer,5/23/92,5/23/01
+11071,Kwan,Sigstam,Senior Engineer,5/23/01,1/1/99
+11075,Karsten,Belinskaya,Senior Engineer,5/6/98,1/1/99
+11077,Hideyuki,Merro,Senior Staff,4/30/98,10/11/98
+11079,Piyush,Garigliano,Engineer,5/26/94,5/26/01
+11079,Piyush,Garigliano,Senior Engineer,5/26/01,1/1/99
+11081,Barry,Boyle,Senior Staff,6/17/94,1/1/99
+11081,Barry,Boyle,Staff,6/17/85,6/17/94
+11083,Shimshon,Ducloy,Senior Staff,10/4/00,1/1/99
+11083,Shimshon,Ducloy,Staff,10/4/92,10/4/00
+11084,Greger,Senzako,Engineer,5/31/90,5/31/99
+11084,Greger,Senzako,Senior Engineer,5/31/99,1/1/99
+11085,Hailing,Thummel,Senior Engineer,2/10/96,1/1/99
+11087,Changho,Jayawardene,Senior Engineer,3/18/98,1/1/99
+11089,Conal,Henders,Senior Staff,8/13/94,1/1/99
+11091,Souichi,Ramsay,Engineer,9/11/99,1/1/99
+11092,Narain,Stamatiou,Staff,4/5/99,1/1/99
+11098,Arnd,Covnot,Engineer,1/8/97,1/1/99
+11100,Berna,Cochrane,Senior Staff,10/13/93,1/1/99
+11100,Berna,Cochrane,Staff,10/13/86,10/13/93
+11106,Aris,Iwayama,Assistant Engineer,8/31/85,8/31/91
+11106,Aris,Iwayama,Engineer,8/31/91,8/30/97
+11106,Aris,Iwayama,Senior Engineer,8/30/97,1/1/99
+11110,Valeska,Birjandi,Staff,11/14/87,3/30/92
+11111,Udi,Zastre,Assistant Engineer,12/25/94,1/1/99
+11112,Boaz,Mukaidono,Staff,4/28/95,1/1/99
+11113,Shahab,Peng,Senior Staff,11/30/91,1/1/99
+11113,Shahab,Peng,Staff,11/30/85,11/30/91
+11114,Tse,Felcyn,Staff,2/13/93,6/22/99
+11119,Ramzi,Luga,Engineer,6/21/94,10/23/95
+11121,Vugranam,Kakkad,Engineer,10/31/92,11/1/99
+11121,Vugranam,Kakkad,Senior Engineer,11/1/99,1/1/99
+11130,Xinyu,Menhoudj,Senior Staff,2/17/97,1/1/99
+11132,Kristin,Harnett,Engineer,8/30/94,8/30/99
+11132,Kristin,Harnett,Senior Engineer,8/30/99,1/1/99
+11133,Nalini,Azulay,Technique Leader,3/6/94,1/1/99
+11134,Sachar,Rajcani,Engineer,5/19/93,5/19/02
+11134,Sachar,Rajcani,Senior Engineer,5/19/02,1/1/99
+11137,Hugh,Luca,Engineer,3/16/95,1/1/99
+11139,Bogdan,Homond,Senior Staff,5/11/95,1/1/99
+11139,Bogdan,Homond,Staff,5/11/90,5/11/95
+11143,Yongdong,Rosen,Engineer,5/9/96,1/1/99
+11144,Carrsten,Heinisuo,Senior Staff,7/19/02,1/1/99
+11144,Carrsten,Heinisuo,Staff,7/19/96,7/19/02
+11145,Jinxi,Baak,Engineer,4/23/99,5/24/99
+11146,Ishfaq,Masand,Senior Staff,8/21/97,1/1/99
+11146,Ishfaq,Masand,Staff,8/22/91,8/21/97
+11147,Ayonca,Nitsch,Engineer,12/4/97,1/1/99
+11148,Zhanqiu,Botman,Senior Staff,2/8/97,1/1/99
+11148,Zhanqiu,Botman,Staff,2/8/90,2/8/97
+11156,Tomoyuki,Armand,Staff,9/7/95,7/31/98
+11158,Masaki,Hagimont,Engineer,4/20/96,4/20/02
+11158,Masaki,Hagimont,Senior Engineer,4/20/02,1/1/99
+11162,Kauko,Narlikar,Engineer,3/28/85,3/28/90
+11162,Kauko,Narlikar,Senior Engineer,3/28/90,1/1/99
+11168,Shmuel,Tetzlaff,Senior Staff,7/15/01,1/1/99
+11168,Shmuel,Tetzlaff,Staff,7/15/96,7/15/01
+11170,Minghong,Cannard,Senior Engineer,6/20/90,1/1/99
+11174,Akhilish,Milicia,Engineer,6/7/99,1/1/99
+11177,Chrisa,dAstous,Senior Engineer,9/11/99,1/1/99
+11180,Mitsuyuki,Bojadziev,Engineer,6/11/86,6/10/92
+11180,Mitsuyuki,Bojadziev,Senior Engineer,6/10/92,1/1/99
+11181,Hausi,Cullers,Engineer,11/3/97,1/1/99
+11185,Aloys,Baezner,Senior Staff,1/26/00,1/1/99
+11185,Aloys,Baezner,Staff,1/26/95,1/26/00
+11186,Kshitij,Stasinski,Engineer,12/10/94,12/9/00
+11186,Kshitij,Stasinski,Senior Engineer,12/9/00,1/1/99
+11189,Dante,Bodoff,Senior Staff,9/7/91,1/1/99
+11192,Apostol,Bahr,Engineer,4/7/98,1/1/99
+11195,Masanao,Lovengreen,Senior Engineer,6/13/91,5/16/99
+11197,Tadahiro,Fordan,Senior Staff,9/12/89,1/1/99
+11201,Jouko,Masaki,Staff,10/31/95,1/1/99
+11203,Sakthirel,Yetto,Senior Staff,1/6/96,6/15/96
+11203,Sakthirel,Yetto,Staff,1/6/88,1/6/96
+11204,Diederik,Covnot,Technique Leader,9/18/85,1/1/99
+11206,Steen,Sury,Staff,5/7/93,5/4/00
+11207,Saeed,Gips,Engineer,1/31/99,1/1/99
+11208,Saniya,Valtorta,Technique Leader,11/17/94,1/1/99
+11211,Yurij,Rissland,Senior Engineer,9/17/85,1/1/99
+11213,Vugranam,Munoz,Technique Leader,2/4/99,1/1/99
+11217,Kellie,Mawatari,Senior Engineer,3/11/90,1/1/99
+11218,Kirk,Hemaspaandra,Technique Leader,4/6/94,4/19/02
+11221,Alselm,Hammerschmidt,Engineer,8/22/89,3/13/95
+11229,Gretta,Ramamoorthy,Engineer,7/26/91,7/25/00
+11229,Gretta,Ramamoorthy,Senior Engineer,7/25/00,1/1/99
+11232,Hidefumi,Crelier,Senior Staff,8/1/00,1/1/99
+11232,Hidefumi,Crelier,Staff,8/2/94,8/1/00
+11233,Sanjit,Waschkowski,Engineer,12/14/91,12/14/98
+11233,Sanjit,Waschkowski,Senior Engineer,12/14/98,1/1/99
+11240,Kiam,Condotta,Assistant Engineer,1/6/89,1/6/97
+11240,Kiam,Condotta,Engineer,1/6/97,1/1/99
+11243,Udi,Desikan,Assistant Engineer,1/20/00,1/1/99
+11249,Randi,Cyre,Assistant Engineer,9/22/86,9/22/94
+11249,Randi,Cyre,Engineer,9/22/94,1/1/99
+11251,Bezalel,Chinal,Senior Staff,6/15/93,1/1/99
+11251,Bezalel,Chinal,Staff,6/15/86,6/15/93
+11253,Koldo,Pokrovskii,Engineer,5/22/92,5/22/00
+11253,Koldo,Pokrovskii,Senior Engineer,5/22/00,1/1/99
+11254,Danel,Rindone,Staff,12/19/98,1/1/99
+11258,Aris,Maccarone,Senior Staff,3/28/98,1/1/99
+11258,Aris,Maccarone,Staff,3/28/91,3/28/98
+11266,Florina,Rohrbach,Engineer,5/12/97,5/12/02
+11266,Florina,Rohrbach,Senior Engineer,5/12/02,1/1/99
+11267,Shaunak,Zaumen,Senior Engineer,4/9/96,1/1/99
+11268,Aimee,Petersohn,Engineer,10/25/87,10/25/95
+11268,Aimee,Petersohn,Senior Engineer,10/25/95,1/1/99
+11274,Masanao,Nicolson,Staff,12/13/99,1/1/99
+11275,Hitomi,Eppinger,Engineer,4/25/89,4/25/98
+11275,Hitomi,Eppinger,Senior Engineer,4/25/98,1/1/99
+11288,Domenico,Eastman,Senior Staff,6/3/97,9/28/97
+11289,Chuanti,Cherinka,Engineer,2/22/89,2/23/96
+11289,Chuanti,Cherinka,Senior Engineer,2/23/96,1/1/99
+11290,Visit,Dredge,Engineer,5/13/99,1/1/99
+11291,Gino,Glowinski,Senior Engineer,10/20/85,4/15/01
+11292,Souichi,Sichman,Engineer,2/11/89,2/12/96
+11292,Souichi,Sichman,Senior Engineer,2/12/96,1/1/99
+11294,Tru,Segond,Assistant Engineer,6/13/89,6/13/94
+11294,Tru,Segond,Engineer,6/13/94,6/13/99
+11294,Tru,Segond,Senior Engineer,6/13/99,1/1/99
+11295,Abdelkader,Lanzelotte,Senior Staff,5/15/90,1/1/99
+11295,Abdelkader,Lanzelotte,Staff,5/15/85,5/15/90
+11296,Hironobu,Kenevan,Engineer,9/26/89,9/26/94
+11296,Hironobu,Kenevan,Senior Engineer,9/26/94,1/1/99
+11297,Geraldo,Levergood,Engineer,2/16/91,2/22/91
+11300,Lillian,Fontet,Engineer,9/10/92,12/20/96
+11301,Mingzeng,Oxenboll,Senior Staff,5/23/96,1/1/99
+11301,Mingzeng,Oxenboll,Staff,5/23/89,5/23/96
+11302,Shem,Senzako,Staff,7/1/91,1/29/93
+11315,Neven,Meriste,Staff,1/18/00,1/17/02
+11317,Shigeaki,Hagimont,Senior Staff,9/7/00,1/1/99
+11317,Shigeaki,Hagimont,Staff,9/8/95,9/7/00
+11319,Pranas,Marrakchi,Assistant Engineer,11/1/98,1/1/99
+11320,Atilio,McAlpine,Senior Staff,4/6/98,1/1/99
+11320,Atilio,McAlpine,Staff,4/6/90,4/6/98
+11322,Nathalie,Pocchiola,Assistant Engineer,7/7/85,7/7/92
+11322,Nathalie,Pocchiola,Engineer,7/7/92,7/8/99
+11322,Nathalie,Pocchiola,Senior Engineer,7/8/99,1/1/99
+11324,Kauko,Billingsley,Senior Engineer,8/29/85,1/1/99
+11325,Samphel,Rossi,Engineer,1/10/99,1/1/99
+11326,Munenori,Plesums,Engineer,2/19/90,2/19/99
+11326,Munenori,Plesums,Senior Engineer,2/19/99,1/1/99
+11338,Kwangsub,Hanratty,Senior Staff,10/28/98,1/1/99
+11339,Flemming,Massonet,Senior Engineer,12/19/89,1/1/99
+11340,Aris,Bala,Engineer,9/11/91,9/11/98
+11340,Aris,Bala,Senior Engineer,9/11/98,1/1/99
+11343,Susanne,Erez,Engineer,2/27/89,2/27/95
+11343,Susanne,Erez,Senior Engineer,2/27/95,1/1/99
+11347,Anneli,Jonsson,Engineer,4/20/86,4/19/92
+11347,Anneli,Jonsson,Senior Engineer,4/19/92,1/1/99
+11349,Yurii,Hammerschmidt,Assistant Engineer,6/27/92,6/28/99
+11349,Yurii,Hammerschmidt,Engineer,6/28/99,1/1/99
+11360,Fen,Schach,Senior Staff,1/12/97,1/1/99
+11360,Fen,Schach,Staff,1/12/89,1/12/97
+11365,Toshimi,Shinomoto,Engineer,12/18/97,1/1/99
+11372,Susanta,Vilarrasa,Senior Staff,5/14/93,5/4/00
+11373,Yongmao,Keohane,Senior Staff,7/18/00,1/1/99
+11373,Yongmao,Keohane,Staff,7/18/92,7/18/00
+11376,Valery,Suomi,Senior Staff,3/14/94,1/1/99
+11376,Valery,Suomi,Staff,3/14/86,3/14/94
+11380,Kenroku,Pelc,Assistant Engineer,4/19/91,4/18/96
+11380,Kenroku,Pelc,Engineer,4/18/96,4/18/01
+11380,Kenroku,Pelc,Senior Engineer,4/18/01,1/1/99
+11385,Shiv,Ullian,Engineer,8/8/99,1/1/99
+11386,Alselm,Assaf,Engineer,11/30/87,11/29/93
+11386,Alselm,Assaf,Senior Engineer,11/29/93,1/1/99
+11387,Jordanka,Kalloufi,Engineer,5/11/97,12/13/97
+11393,Junsik,Junot,Engineer,4/30/85,4/30/92
+11393,Junsik,Junot,Senior Engineer,4/30/92,1/1/99
+11396,Anneke,Servieres,Engineer,2/4/97,1/1/99
+11398,Oscar,Peir,Senior Staff,9/7/01,1/1/99
+11398,Oscar,Peir,Staff,9/7/94,9/7/01
+11401,Huan,Merey,Staff,4/15/95,1/1/99
+11404,Bedrich,Borovoy,Technique Leader,9/25/90,1/1/99
+11406,Eberhardt,Gini,Senior Staff,3/13/96,1/1/99
+11406,Eberhardt,Gini,Staff,3/13/89,3/13/96
+11410,Gro,Vendrig,Engineer,10/25/99,1/1/99
+11414,Eishiro,Pearson,Senior Staff,1/3/96,10/6/97
+11414,Eishiro,Pearson,Staff,1/2/89,1/3/96
+11415,Sanjiv,Anido,Engineer,12/7/96,1/1/99
+11417,Anneli,Cyne,Technique Leader,12/21/92,1/1/99
+11418,Satosi,Cooley,Senior Staff,12/30/91,1/1/99
+11420,Tsutomu,Lalonde,Senior Staff,1/31/92,1/1/99
+11421,Josyula,Msuda,Engineer,9/2/86,9/2/95
+11421,Josyula,Msuda,Senior Engineer,9/2/95,1/1/99
+11423,Guangming,Kopetz,Staff,10/13/98,1/1/99
+11425,Renee,Crelier,Senior Engineer,8/27/90,1/1/99
+11428,Remco,Reinhart,Engineer,7/31/94,7/4/98
+11431,Youngkon,Picht,Senior Staff,9/16/91,3/3/01
+11431,Youngkon,Picht,Staff,9/16/85,9/16/91
+11441,Marlo,Aingworth,Senior Staff,3/27/87,1/1/99
+11446,Naftali,Narahara,Engineer,4/6/91,4/6/99
+11446,Naftali,Narahara,Senior Engineer,4/6/99,1/1/99
+11449,Kotesh,Asser,Engineer,2/3/95,2/3/00
+11449,Kotesh,Asser,Senior Engineer,2/3/00,1/1/99
+11451,Eben,Rajaraman,Senior Engineer,5/20/90,1/1/99
+11452,Shigehito,Luby,Senior Staff,8/26/01,1/1/99
+11452,Shigehito,Luby,Staff,8/26/93,8/26/01
+11459,Duke,Suomi,Senior Staff,5/2/92,1/1/99
+11459,Duke,Suomi,Staff,5/3/86,5/2/92
+11460,Mana,Maraist,Engineer,5/28/92,5/28/01
+11460,Mana,Maraist,Senior Engineer,5/28/01,1/1/99
+11461,Kish,Cronau,Engineer,8/19/86,8/18/92
+11461,Kish,Cronau,Senior Engineer,8/18/92,7/20/97
+11468,Navin,Maksimenko,Staff,3/19/96,4/7/97
+11469,Guttorm,Giaccio,Engineer,9/8/94,9/8/99
+11469,Guttorm,Giaccio,Senior Engineer,9/8/99,1/1/99
+11474,Gennady,Akazan,Engineer,12/29/93,1/1/99
+11476,Manton,Yoshizawa,Staff,1/15/94,1/1/99
+11477,Fox,Narahari,Engineer,7/28/96,9/12/96
+11479,Shridhar,Pleszkun,Staff,2/10/99,1/1/99
+11501,Karsten,Ranum,Senior Staff,10/24/99,3/20/02
+11501,Karsten,Ranum,Staff,10/24/91,10/24/99
+11503,Nathan,Picht,Engineer,4/9/97,4/9/02
+11503,Nathan,Picht,Senior Engineer,4/9/02,1/1/99
+11506,Rance,Picel,Staff,4/8/96,1/1/99
+11509,Aleksander,Feldhoffer,Engineer,11/12/87,11/11/92
+11509,Aleksander,Feldhoffer,Senior Engineer,11/11/92,1/1/99
+11513,Otmar,Mahnke,Senior Staff,8/25/98,1/1/99
+11513,Otmar,Mahnke,Staff,8/25/92,8/25/98
+11515,Ulf,Basawa,Staff,9/21/98,1/1/99
+11518,Jinxi,Oxman,Senior Staff,9/22/99,1/1/99
+11518,Jinxi,Oxman,Staff,9/22/94,9/22/99
+11519,Halsur,Chinen,Senior Staff,6/12/97,1/1/99
+11521,Eldridge,Eastman,Staff,10/17/95,6/8/00
+11523,Yuguang,Pezzoli,Assistant Engineer,12/23/92,12/23/98
+11523,Yuguang,Pezzoli,Engineer,12/23/98,1/1/99
+11524,Xiadong,Standera,Senior Engineer,7/5/96,1/1/99
+11526,Tonny,Impagliazzo,Senior Staff,2/22/98,11/28/98
+11526,Tonny,Impagliazzo,Staff,2/23/92,2/22/98
+11527,Alagu,Boyle,Staff,1/28/99,1/1/99
+11528,Zito,Dolinsky,Technique Leader,6/15/87,1/1/99
+11531,Radhika,Motley,Technique Leader,11/4/92,1/1/99
+11533,Vitaly,Lorch,Technique Leader,8/20/91,1/1/99
+11537,DAIDA,Pehl,Senior Staff,7/6/86,1/1/99
+11540,Chanjung,Portugali,Engineer,7/2/97,7/2/02
+11540,Chanjung,Portugali,Senior Engineer,7/2/02,1/1/99
+11554,Subhash,Taubenfeld,Staff,7/15/98,1/1/99
+11555,Kotesh,Perfilyeva,Senior Staff,10/14/91,1/1/99
+11555,Kotesh,Perfilyeva,Staff,10/14/86,10/14/91
+11562,Rimli,Alencar,Engineer,6/30/88,12/13/94
+11567,Teiji,Mitzlaff,Senior Staff,2/3/96,1/1/99
+11567,Teiji,Mitzlaff,Staff,2/3/88,2/3/96
+11568,Martins,Fujisaki,Engineer,3/13/92,3/13/00
+11568,Martins,Fujisaki,Senior Engineer,3/13/00,1/1/99
+11573,Pranas,Hutton,Engineer,2/4/90,2/4/95
+11573,Pranas,Hutton,Senior Engineer,2/4/95,1/1/99
+11575,Godehard,Plotkin,Assistant Engineer,6/1/94,5/31/00
+11575,Godehard,Plotkin,Engineer,5/31/00,1/1/99
+11577,Mayumi,Deyuan,Engineer,9/23/92,9/23/98
+11577,Mayumi,Deyuan,Senior Engineer,9/23/98,1/1/99
+11578,Edwin,Rosti,Engineer,11/22/85,11/22/91
+11578,Edwin,Rosti,Senior Engineer,11/22/91,2/17/02
+11581,Patricio,Rosenbaum,Engineer,11/13/92,11/13/01
+11581,Patricio,Rosenbaum,Senior Engineer,11/13/01,1/1/99
+11587,Shem,Zambonelli,Senior Engineer,4/24/89,1/1/99
+11588,Kaijung,Panangaden,Senior Staff,12/24/94,6/12/95
+11589,Gina,Plessier,Engineer,5/6/94,5/6/01
+11589,Gina,Plessier,Senior Engineer,5/6/01,1/1/99
+11595,Takanari,Kamber,Senior Staff,9/8/92,1/1/99
+11596,Yannik,Gunderson,Staff,11/23/95,1/1/99
+11597,Yongdong,Talmon,Senior Engineer,2/1/90,12/7/98
+11602,Somnath,Malabarba,Senior Staff,6/21/01,1/1/99
+11602,Somnath,Malabarba,Staff,6/21/93,6/21/01
+11603,Herb,Swen,Senior Staff,4/13/94,1/1/99
+11603,Herb,Swen,Staff,4/13/85,4/13/94
+11606,Perry,Pepe,Senior Staff,9/27/99,1/1/99
+11606,Perry,Pepe,Staff,9/27/94,9/27/99
+11607,Tomokazu,Foong,Engineer,4/19/95,1/1/99
+11615,Shem,Isaak,Senior Staff,8/28/00,1/1/99
+11615,Shem,Isaak,Staff,8/29/91,8/28/00
+11616,Zhilian,Brendel,Assistant Engineer,12/30/93,12/30/98
+11616,Zhilian,Brendel,Engineer,12/30/98,1/1/99
+11624,Adil,Gammage,Engineer,7/15/89,7/15/96
+11624,Adil,Gammage,Senior Engineer,7/15/96,1/1/99
+11628,Fan,Malinowski,Engineer,10/23/88,10/23/97
+11628,Fan,Malinowski,Senior Engineer,10/23/97,1/1/99
+11636,Fumitaka,Shiratori,Engineer,11/16/92,1/1/98
+11640,Valeri,Coorg,Senior Engineer,9/26/88,1/1/99
+11641,Chikako,Rothenberg,Senior Engineer,6/18/91,1/1/99
+11644,Sanjit,Zaiane,Assistant Engineer,8/9/95,1/1/99
+11646,Lobel,Rubsam,Engineer,12/15/99,1/1/99
+11647,Magy,Nitsche,Engineer,5/11/88,5/11/93
+11647,Magy,Nitsche,Senior Engineer,5/11/93,1/1/99
+11649,Shen,Bernardinello,Technique Leader,12/11/92,1/1/99
+11660,Gill,Stenning,Senior Staff,11/22/94,1/1/99
+11660,Gill,Stenning,Staff,11/22/86,11/22/94
+11664,Oksana,Brizzi,Senior Staff,9/7/90,1/1/99
+11667,Kristian,Marchegay,Senior Staff,9/7/96,1/1/99
+11667,Kristian,Marchegay,Staff,9/8/90,9/7/96
+11673,Henk,Felder,Technique Leader,6/10/89,1/1/99
+11676,Valeri,Ferriere,Engineer,7/15/98,1/1/99
+11681,Fumitake,Benzmuller,Engineer,8/27/88,8/28/95
+11681,Fumitake,Benzmuller,Senior Engineer,8/28/95,1/1/99
+11684,Oksana,Gide,Senior Staff,2/21/95,1/1/99
+11684,Oksana,Gide,Staff,2/21/86,2/21/95
+11686,Nadjib,Srimani,Senior Staff,4/20/00,7/22/00
+11686,Nadjib,Srimani,Staff,4/21/95,4/20/00
+11690,Domenick,Raczkowsky,Staff,9/23/97,1/1/99
+11693,Hideo,Coorg,Senior Engineer,8/24/91,1/1/99
+11696,Dante,Rothe,Senior Staff,10/23/94,1/1/99
+11696,Dante,Rothe,Staff,10/23/85,10/23/94
+11705,Arve,Hofmeyr,Senior Staff,10/30/90,6/30/94
+11705,Arve,Hofmeyr,Staff,10/30/85,10/30/90
+11708,Chenye,Angot,Staff,9/18/92,7/28/96
+11713,Danel,Heusch,Engineer,10/4/94,10/3/00
+11713,Danel,Heusch,Senior Engineer,10/3/00,1/1/99
+11732,Sanjoy,Ranft,Senior Engineer,12/22/96,1/1/99
+11733,Leszek,Sudbeck,Engineer,1/12/92,1/11/01
+11733,Leszek,Sudbeck,Senior Engineer,1/11/01,1/1/99
+11735,Amalendu,Picci,Senior Staff,7/14/97,1/1/99
+11735,Amalendu,Picci,Staff,7/14/88,7/14/97
+11736,Shugo,Uchoa,Senior Engineer,3/7/94,1/1/99
+11737,Martina,Garnier,Assistant Engineer,7/11/95,1/1/99
+11738,Tadahiro,Lichtman,Engineer,6/19/86,6/18/92
+11738,Tadahiro,Lichtman,Senior Engineer,6/18/92,6/27/95
+11746,Koichi,Marrakchi,Senior Staff,11/18/95,1/1/99
+11746,Koichi,Marrakchi,Staff,11/17/88,11/18/95
+11747,Aksel,Kossowski,Senior Staff,2/20/93,1/16/99
+11747,Aksel,Kossowski,Staff,2/20/86,2/20/93
+11748,Lihong,Massonet,Engineer,7/24/96,1/1/99
+11751,Jiafu,Emiris,Senior Staff,11/3/93,1/1/99
+11751,Jiafu,Emiris,Staff,11/3/88,11/3/93
+11755,Zhenbing,Karner,Senior Staff,12/4/96,1/8/02
+11755,Zhenbing,Karner,Staff,12/5/90,12/4/96
+11756,Abdelwaheb,Vakili,Engineer,11/26/99,1/1/99
+11763,Yuriy,Liesche,Engineer,4/18/97,1/1/99
+11764,Sanjay,Anick,Engineer,12/16/91,12/15/96
+11764,Sanjay,Anick,Senior Engineer,12/15/96,1/1/99
+11765,Zorica,Junet,Senior Staff,7/3/00,1/1/99
+11765,Zorica,Junet,Staff,7/4/91,7/3/00
+11769,Chandrasekaran,Lampe,Senior Staff,10/22/01,1/1/99
+11769,Chandrasekaran,Lampe,Staff,10/22/93,10/22/01
+11770,Arumugam,Jakobus,Engineer,11/29/92,11/29/00
+11770,Arumugam,Jakobus,Senior Engineer,11/29/00,1/1/99
+11772,Gaurav,Penz,Engineer,11/7/99,1/1/99
+11774,Aron,Wroclawski,Engineer,11/26/98,1/1/99
+11778,Dhritiman,Fontan,Engineer,12/28/92,12/28/97
+11778,Dhritiman,Fontan,Senior Engineer,12/28/97,1/1/99
+11779,Shunichi,Thombley,Staff,11/21/96,1/1/99
+11791,Gal,Mamelak,Senior Engineer,11/15/94,1/1/99
+11797,Chenxi,Thambidurai,Senior Staff,8/30/96,1/1/99
+11797,Chenxi,Thambidurai,Staff,8/30/88,8/30/96
+11801,Tommaso,Dayang,Senior Staff,6/12/97,1/1/99
+11801,Tommaso,Dayang,Staff,6/12/92,6/12/97
+11805,Rosine,Grandbois,Assistant Engineer,9/1/85,2/5/91
+11807,Chriss,Binding,Technique Leader,7/11/92,1/1/99
+11810,Amabile,Bhattacharjee,Senior Engineer,1/5/92,1/1/99
+11811,Herb,Boissier,Senior Staff,3/28/98,1/1/99
+11811,Herb,Boissier,Staff,3/28/92,3/28/98
+11813,Gita,Muhlberg,Staff,3/16/87,7/20/91
+11814,Manohar,Shinomoto,Staff,6/9/96,10/24/98
+11817,Niranjan,Markovitch,Senior Staff,4/12/93,1/1/99
+11817,Niranjan,Markovitch,Staff,4/12/86,4/12/93
+11821,Mary,Piazza,Senior Engineer,12/13/95,10/26/01
+11822,Sastry,Madeira,Staff,7/7/96,1/1/99
+11823,Weiyi,Iacovou,Senior Engineer,10/23/95,1/1/99
+11829,Chaosheng,Pettis,Assistant Engineer,10/11/99,1/1/99
+11832,Arto,Zlotek,Engineer,2/4/96,1/1/99
+11836,Ortrud,Bakhtari,Senior Staff,7/28/89,1/1/99
+11838,Taiji,Nitta,Staff,7/11/86,5/9/91
+11841,Elvia,Bugrara,Staff,4/2/96,1/1/99
+11842,Moto,Piazza,Senior Staff,12/11/99,1/1/99
+11842,Moto,Piazza,Staff,12/11/91,12/11/99
+11844,Shawna,Demeyer,Engineer,1/27/88,1/27/95
+11844,Shawna,Demeyer,Senior Engineer,1/27/95,1/1/99
+11846,Fai,Perly,Engineer,6/22/94,6/22/99
+11846,Fai,Perly,Senior Engineer,6/22/99,1/1/99
+11847,Tzvetan,Brandsma,Senior Engineer,1/13/96,5/23/99
+11853,Zeljko,Kusakabe,Senior Staff,11/17/96,1/1/99
+11853,Zeljko,Kusakabe,Staff,11/17/88,11/17/96
+11857,Divier,Farrag,Senior Staff,8/27/86,1/1/99
+11862,Alejandra,Deville,Engineer,1/20/93,1/20/98
+11862,Alejandra,Deville,Senior Engineer,1/20/98,1/1/99
+11864,Pradeep,Kriebel,Staff,11/2/95,1/1/99
+11868,Kwee,Demke,Engineer,4/3/95,1/1/99
+11869,Fumino,Luca,Engineer,8/12/96,1/1/99
+11871,Nalini,Sommen,Engineer,10/13/93,10/13/98
+11871,Nalini,Sommen,Senior Engineer,10/13/98,1/1/99
+11872,Cheong,Riexinger,Senior Staff,2/12/02,1/1/99
+11872,Cheong,Riexinger,Staff,2/12/94,2/12/02
+11876,Leszek,Kobuchi,Engineer,6/8/91,6/7/00
+11876,Leszek,Kobuchi,Senior Engineer,6/7/00,1/1/99
+11877,Heng,Sudkamp,Senior Staff,9/17/95,6/9/99
+11881,Arra,Staelin,Senior Staff,4/8/95,1/1/99
+11881,Arra,Staelin,Staff,4/8/90,4/8/95
+11883,Nectarios,Bhattacharjee,Engineer,4/16/88,10/28/90
+11888,Badri,Azulay,Senior Staff,11/28/99,1/1/99
+11888,Badri,Azulay,Staff,11/28/94,11/28/99
+11894,Mitchel,Validov,Senior Engineer,6/22/88,1/1/99
+11896,Shaunak,Benzmuller,Technique Leader,7/4/90,1/1/99
+11897,Cordelia,Setlzner,Senior Staff,6/16/97,1/1/99
+11897,Cordelia,Setlzner,Staff,6/16/88,6/16/97
+11906,Hideo,Boguraev,Engineer,2/7/99,1/1/99
+11911,Ashish,Mondadori,Engineer,6/5/90,6/5/95
+11911,Ashish,Mondadori,Senior Engineer,6/5/95,1/1/99
+11915,Miomir,Mawatari,Engineer,6/28/92,6/28/01
+11915,Miomir,Mawatari,Senior Engineer,6/28/01,1/1/99
+11917,Jiakeng,VanScheik,Engineer,3/8/97,1/1/99
+11926,Leni,Felcyn,Engineer,9/18/98,1/1/99
+11931,Gunilla,Chiodo,Senior Staff,1/13/00,1/1/99
+11931,Gunilla,Chiodo,Staff,1/13/91,1/13/00
+11933,Basil,Erman,Engineer,6/13/87,6/12/92
+11933,Basil,Erman,Senior Engineer,6/12/92,1/1/99
+11938,Aruna,Verspoor,Staff,7/15/94,1/1/99
+11939,Chinhyun,Basart,Technique Leader,8/14/92,10/29/93
+11940,Ult,Anido,Assistant Engineer,11/2/96,1/1/99
+11944,Along,Aumann,Senior Engineer,12/1/94,1/1/99
+11945,Limsoon,Marakhovsky,Staff,1/21/94,1/1/99
+11948,Yahiko,Nergos,Engineer,5/10/95,5/10/02
+11948,Yahiko,Nergos,Senior Engineer,5/10/02,1/1/99
+11949,Martijn,Harbusch,Technique Leader,3/11/85,1/1/99
+11951,Bernt,Haumacher,Assistant Engineer,10/14/89,10/14/95
+11951,Bernt,Haumacher,Engineer,10/14/95,10/13/01
+11951,Bernt,Haumacher,Senior Engineer,10/13/01,1/1/99
+11965,Arup,Morrey,Engineer,10/7/93,1/1/99
+11972,Sibyl,Beausoleil,Senior Staff,4/25/94,1/1/99
+11980,Yechezkel,Pews,Staff,2/18/98,1/1/99
+11983,Jaana,Hedayat,Engineer,10/11/86,10/11/94
+11983,Jaana,Hedayat,Senior Engineer,10/11/94,1/1/99
+11987,Vidya,Schaar,Senior Staff,10/17/94,12/4/97
+11987,Vidya,Schaar,Staff,10/17/88,10/17/94
+11988,Chinya,Chinin,Engineer,11/3/85,11/3/90
+11988,Chinya,Chinin,Senior Engineer,11/3/90,12/31/01
+11989,Erzsebet,Peltason,Technique Leader,1/7/89,1/1/99
+11993,Marit,Dalphin,Senior Staff,10/22/96,1/1/99
+11994,Sigeru,Fiebach,Senior Staff,11/11/99,1/1/99
+11994,Sigeru,Fiebach,Staff,11/11/93,11/11/99
+11997,Heon,Mawatari,Staff,2/21/99,8/6/99
+12007,Marko,Dehkordi,Engineer,5/17/89,5/17/96
+12007,Marko,Dehkordi,Senior Engineer,5/17/96,1/1/99
+12008,Frederique,Zykh,Engineer,8/7/91,3/24/93
+12011,Zhilian,Coorg,Senior Staff,7/22/97,1/1/99
+12011,Zhilian,Coorg,Staff,7/22/88,7/22/97
+12015,Kensei,Guenter,Staff,11/16/99,1/1/99
+12021,Chikara,Rahimi,Engineer,9/30/91,9/29/00
+12021,Chikara,Rahimi,Senior Engineer,9/29/00,1/1/99
+12023,Chuanyi,Eppinger,Technique Leader,12/8/94,1/1/99
+12024,Mayumi,Lanzelotte,Staff,11/3/97,1/1/99
+12025,Jaewoo,Heiserman,Staff,2/28/85,6/9/90
+12028,Ingemar,Walstra,Engineer,9/2/92,9/2/97
+12028,Ingemar,Walstra,Senior Engineer,9/2/97,1/1/99
+12030,Shuky,Cromarty,Staff,6/24/96,1/1/99
+12033,Visit,Serot,Engineer,11/30/97,2/7/99
+12034,Aemilian,Piazza,Staff,11/22/95,1/1/99
+12036,Mads,Ratzlaff,Senior Staff,9/5/95,1/1/99
+12036,Mads,Ratzlaff,Staff,9/5/86,9/5/95
+12037,Arunas,Katzenelson,Senior Staff,9/30/92,1/1/99
+12037,Arunas,Katzenelson,Staff,10/1/86,9/30/92
+12040,Bluma,Kermarrec,Senior Staff,9/28/98,1/1/99
+12043,Masaki,Lubachevsky,Staff,1/5/00,1/1/99
+12044,Rance,Hemaspaandra,Senior Engineer,4/19/90,1/1/99
+12047,Jordanka,Ligten,Assistant Engineer,8/23/96,1/1/99
+12050,Yuchang,Tchuente,Assistant Engineer,4/1/89,4/1/96
+12050,Yuchang,Tchuente,Engineer,4/1/96,1/1/99
+12052,Masako,Khasidashvili,Technique Leader,4/7/86,8/29/88
+12053,Yechezkel,Pelc,Senior Engineer,11/12/89,1/1/99
+12054,Odysseas,Braccini,Staff,8/6/99,1/1/99
+12055,Rutger,Kilgore,Staff,6/22/90,6/16/95
+12060,Toshimi,Antonakopoulos,Technique Leader,6/21/96,1/1/99
+12062,Margareta,Worfolk,Senior Staff,1/4/96,1/1/99
+12063,Lein,Bale,Engineer,7/24/94,7/24/02
+12063,Lein,Bale,Senior Engineer,7/24/02,1/1/99
+12069,Ayonca,Burnard,Assistant Engineer,5/13/85,5/13/90
+12069,Ayonca,Burnard,Engineer,5/13/90,5/13/95
+12069,Ayonca,Burnard,Senior Engineer,5/13/95,1/1/99
+12070,Ger,Shokrollahi,Technique Leader,11/14/88,1/1/99
+12076,Karlis,Siprelle,Senior Staff,3/25/85,1/1/99
+12077,Steve,Hutton,Engineer,1/30/94,1/30/99
+12077,Steve,Hutton,Senior Engineer,1/30/99,8/18/00
+12080,Panayotis,Feinberg,Senior Staff,5/17/01,1/1/99
+12080,Panayotis,Feinberg,Staff,5/17/93,5/17/01
+12082,Xinan,Yamaashi,Senior Staff,1/29/92,1/1/99
+12082,Xinan,Yamaashi,Staff,1/29/86,1/29/92
+12087,Weijing,Jumpertz,Engineer,8/16/86,3/24/93
+12089,Bilhanan,Socorro,Senior Staff,10/22/94,1/1/99
+12089,Bilhanan,Socorro,Staff,10/22/86,10/22/94
+12090,Shigenori,Angelopoulos,Engineer,10/3/99,1/1/99
+12091,Lansing,Cunliffe,Senior Engineer,3/21/89,1/1/99
+12092,Kauko,Unno,Senior Staff,8/8/98,1/1/99
+12093,Evgueni,Oxenboll,Engineer,1/19/94,1/19/99
+12093,Evgueni,Oxenboll,Senior Engineer,1/19/99,1/1/99
+12094,Weiru,Pearson,Senior Staff,4/27/89,1/1/99
+12095,Fai,Smeets,Engineer,4/4/90,4/4/95
+12095,Fai,Smeets,Senior Engineer,4/4/95,11/7/01
+12099,Nobuyoshi,Kuzuoka,Senior Staff,2/15/99,1/1/99
+12099,Nobuyoshi,Kuzuoka,Staff,2/15/94,2/15/99
+12102,Aron,Erde,Staff,2/17/94,1/1/99
+12103,Becky,Erie,Staff,4/23/90,9/18/92
+12104,Dulce,Kohling,Senior Engineer,6/12/97,2/8/02
+12112,Satyanarayana,Avouris,Senior Staff,9/26/97,1/1/99
+12112,Satyanarayana,Avouris,Staff,9/26/89,9/26/97
+12114,Shiv,Rubsam,Staff,2/4/97,1/1/99
+12122,Satoru,Krone,Engineer,7/24/87,7/23/92
+12122,Satoru,Krone,Senior Engineer,7/23/92,1/1/99
+12123,Xiahua,Syrzycki,Senior Staff,7/18/94,1/1/99
+12123,Xiahua,Syrzycki,Staff,7/18/87,7/18/94
+12125,Shounak,Erman,Engineer,3/31/97,1/1/99
+12128,Yannik,Barreiro,Staff,8/16/97,11/25/98
+12138,Takahito,Brender,Engineer,2/23/96,1/1/99
+12140,Xudong,Paciorek,Senior Staff,11/15/96,1/1/99
+12148,Hidde,Garigliano,Assistant Engineer,6/24/97,11/21/97
+12149,Suebskul,Grandbois,Senior Staff,10/1/88,1/1/99
+12159,Shem,Perly,Senior Engineer,7/17/85,1/1/99
+12160,Aamer,Garrabrants,Senior Staff,9/19/89,1/1/99
+12164,Muneo,Chachaty,Engineer,5/14/96,1/1/99
+12165,Xiaobin,Maquelin,Senior Engineer,8/29/94,1/1/99
+12168,Arnd,Salverda,Senior Staff,6/21/96,1/1/99
+12172,Jianhua,Llado,Senior Staff,12/8/90,1/1/99
+12173,Adel,Nanard,Senior Engineer,9/20/98,5/20/00
+12174,Slavian,Plavsic,Senior Engineer,1/9/96,1/1/99
+12183,Harngdar,Iisaku,Engineer,4/4/98,1/1/99
+12186,Guther,Nooteboom,Senior Staff,1/24/98,1/1/99
+12186,Guther,Nooteboom,Staff,1/24/93,1/24/98
+12190,Abdulah,Engberts,Senior Engineer,12/13/97,1/1/99
+12191,Rosella,Bazzichi,Engineer,11/22/98,1/1/99
+12192,Feiyu,Klyachko,Engineer,9/2/86,9/2/91
+12192,Feiyu,Klyachko,Senior Engineer,9/2/91,1/1/99
+12205,Sushant,Rossi,Senior Engineer,11/11/87,1/1/99
+12206,Barton,Janetzko,Assistant Engineer,3/27/85,3/27/93
+12206,Barton,Janetzko,Engineer,3/27/93,3/27/01
+12206,Barton,Janetzko,Senior Engineer,3/27/01,1/1/99
+12210,Vugranam,Ashish,Senior Staff,11/8/97,1/1/99
+12210,Vugranam,Ashish,Staff,11/8/92,11/8/97
+12213,Kwangho,Brizzi,Senior Staff,10/31/00,1/1/99
+12213,Kwangho,Brizzi,Staff,11/1/94,10/31/00
+12216,Aloke,Mansanne,Engineer,10/25/95,1/1/99
+12218,Yaghout,Strooper,Engineer,3/12/91,3/11/00
+12218,Yaghout,Strooper,Senior Engineer,3/11/00,1/1/99
+12219,Junsik,Gadepally,Senior Staff,6/13/95,1/1/99
+12221,Vincent,Melter,Engineer,9/16/85,9/16/91
+12221,Vincent,Melter,Senior Engineer,9/16/91,1/1/99
+12222,Abdelwaheb,Holburn,Senior Staff,8/14/96,1/1/99
+12222,Abdelwaheb,Holburn,Staff,8/15/87,8/14/96
+12223,Niteen,Koyama,Engineer,8/13/86,8/13/95
+12223,Niteen,Koyama,Senior Engineer,8/13/95,1/1/99
+12230,Yuriy,Bellone,Engineer,4/13/97,1/1/99
+12231,Nishit,Bharadwaj,Senior Engineer,5/19/90,1/1/99
+12235,Honesty,Haumacher,Staff,7/10/97,1/1/99
+12242,Satoru,Wolniewicz,Assistant Engineer,11/12/94,11/11/00
+12242,Satoru,Wolniewicz,Engineer,11/11/00,1/1/99
+12247,Subbu,Penttonen,Technique Leader,4/9/85,1/1/99
+12249,Eldridge,Sadowski,Engineer,6/21/87,6/20/96
+12249,Eldridge,Sadowski,Senior Engineer,6/20/96,1/1/99
+12250,Kerhong,Aloia,Senior Engineer,4/25/91,1/1/99
+12254,Chaitali,Stafford,Engineer,12/23/88,10/31/89
+12256,Guadalupe,Reghbati,Senior Staff,8/26/92,1/1/99
+12256,Guadalupe,Reghbati,Staff,8/26/85,8/26/92
+12258,Kankanahalli,Eiter,Engineer,6/22/90,6/22/99
+12258,Kankanahalli,Eiter,Senior Engineer,6/22/99,1/1/99
+12264,Mart,Pagter,Engineer,1/9/98,1/1/99
+12269,Mohammed,Whitcomb,Engineer,7/6/94,7/5/00
+12269,Mohammed,Whitcomb,Senior Engineer,7/5/00,1/1/99
+12270,Shakhar,Kornyak,Senior Staff,8/19/96,1/1/99
+12270,Shakhar,Kornyak,Staff,8/19/89,8/19/96
+12272,Behnaam,Grandbois,Senior Staff,12/7/92,1/1/99
+12272,Behnaam,Grandbois,Staff,12/8/87,12/7/92
+12273,Jaideep,Uehara,Senior Staff,2/14/98,1/1/99
+12273,Jaideep,Uehara,Staff,2/14/91,2/14/98
+12274,Garnik,Papadias,Engineer,4/1/88,1/18/89
+12276,Yongmin,Lenart,Engineer,6/13/93,6/13/01
+12276,Yongmin,Lenart,Senior Engineer,6/13/01,9/25/01
+12281,Hisao,Langford,Engineer,9/22/93,9/22/00
+12281,Hisao,Langford,Senior Engineer,9/22/00,1/1/99
+12282,Tadahiro,Delgrange,Engineer,10/6/99,1/1/99
+12291,Masamitsu,Koyama,Senior Staff,3/29/99,1/1/99
+12291,Masamitsu,Koyama,Staff,3/29/93,3/29/99
+12298,Tetsurou,Rodham,Senior Engineer,3/31/94,1/1/99
+12303,Godehard,Braccini,Senior Staff,6/13/88,7/19/88
+12308,Mototsugu,Cronau,Senior Staff,8/11/91,1/1/99
+12308,Mototsugu,Cronau,Staff,8/11/85,8/11/91
+12311,Susanne,Lubachevsky,Senior Engineer,10/22/85,1/1/99
+12312,Chenye,Velasco,Assistant Engineer,11/24/88,11/24/94
+12312,Chenye,Velasco,Engineer,11/24/94,12/18/96
+12316,Hyuncheol,Duclos,Assistant Engineer,4/5/92,4/5/98
+12316,Hyuncheol,Duclos,Engineer,4/5/98,1/1/99
+12317,Weiyi,Crabtree,Staff,8/11/96,1/1/99
+12327,DAIDA,Bruckman,Engineer,10/16/86,10/15/92
+12327,DAIDA,Bruckman,Senior Engineer,10/15/92,1/1/99
+12328,Atilio,Prampolini,Staff,5/3/97,1/1/99
+12335,Arnould,Genin,Senior Staff,12/1/95,6/19/00
+12338,Kagan,Besselaar,Staff,1/10/97,1/1/99
+12339,Pranay,Czaja,Staff,7/18/96,1/1/99
+12341,Rasiah,Luga,Engineer,5/25/85,5/25/90
+12341,Rasiah,Luga,Senior Engineer,5/25/90,1/1/99
+12343,Sorina,Slaats,Senior Staff,8/25/97,1/1/99
+12343,Sorina,Slaats,Staff,8/25/88,8/25/97
+12345,Xuedong,Mellouli,Engineer,7/9/90,7/9/97
+12345,Xuedong,Mellouli,Senior Engineer,7/9/97,3/9/02
+12351,Gennady,Zizka,Engineer,8/26/97,2/16/99
+12355,Vidar,Hutton,Engineer,11/8/89,11/8/95
+12355,Vidar,Hutton,Senior Engineer,11/8/95,1/1/99
+12364,Neelam,Cummings,Assistant Engineer,11/2/98,1/1/99
+12365,Kamakshi,Bisiani,Engineer,9/12/88,9/12/94
+12365,Kamakshi,Bisiani,Senior Engineer,9/12/94,1/1/99
+12366,Patricio,Setlzner,Staff,7/16/94,1/20/00
+12368,Gor,Dechter,Senior Staff,6/14/00,1/1/99
+12368,Gor,Dechter,Staff,6/14/92,6/14/00
+12373,Mooi,Driscoll,Senior Staff,11/11/93,1/1/99
+12379,Kazuhisa,Serna,Technique Leader,6/2/96,1/1/99
+12380,Menkae,Farrow,Staff,9/3/91,9/15/91
+12381,Amalendu,Klerer,Senior Staff,6/24/98,1/1/99
+12381,Amalendu,Klerer,Staff,6/24/89,6/24/98
+12388,Arumugam,Hebert,Senior Engineer,9/11/97,1/1/99
+12394,Stevo,Reeken,Engineer,9/26/98,1/1/99
+12395,Sanjit,Felder,Senior Staff,6/5/95,1/1/99
+12399,Mihalis,Luga,Senior Staff,12/6/96,1/1/99
+12399,Mihalis,Luga,Staff,12/7/87,12/6/96
+12407,Jianwen,Brodie,Engineer,12/3/93,9/13/99
+12411,Shao,Ibel,Senior Staff,8/17/91,1/1/99
+12411,Shao,Ibel,Staff,8/17/86,8/17/91
+12413,Hugh,Gadepally,Engineer,3/4/94,3/4/99
+12413,Hugh,Gadepally,Senior Engineer,3/4/99,1/1/99
+12415,Uri,Sluis,Staff,10/17/94,10/10/98
+12417,Dannz,Spelt,Senior Engineer,2/2/98,1/1/99
+12421,Toshimi,Gulik,Engineer,10/30/91,10/29/96
+12421,Toshimi,Gulik,Senior Engineer,10/29/96,1/1/99
+12422,Berhard,Demos,Senior Staff,6/7/01,1/1/99
+12422,Berhard,Demos,Staff,6/7/93,6/7/01
+12426,Shahaf,Valtorta,Technique Leader,5/17/99,1/1/99
+12427,Zissis,Daescu,Senior Staff,9/9/00,1/1/99
+12427,Zissis,Daescu,Staff,9/9/92,9/9/00
+12434,Xumin,Bernardinello,Engineer,9/11/94,1/1/99
+12438,Yongmao,Mondadori,Senior Staff,12/20/99,1/1/99
+12438,Yongmao,Mondadori,Staff,12/20/91,12/20/99
+12450,Sanjeeva,Perng,Engineer,2/2/92,2/2/99
+12450,Sanjeeva,Perng,Senior Engineer,2/2/99,1/1/99
+12451,Pramod,Marzano,Engineer,11/26/86,11/26/91
+12451,Pramod,Marzano,Senior Engineer,11/26/91,3/18/95
+12452,Hiroyasu,Francisci,Engineer,9/28/97,1/1/99
+12454,Kerryn,Farris,Staff,12/18/98,1/1/99
+12464,Shai,Milicic,Staff,6/1/98,1/1/99
+12466,Cullen,Nations,Senior Staff,2/19/94,1/1/99
+12468,Ioana,Baezner,Staff,12/8/93,1/1/99
+12470,Khue,Hinsberger,Engineer,2/29/96,6/22/98
+12475,Filipe,Roison,Engineer,4/26/87,4/25/96
+12475,Filipe,Roison,Senior Engineer,4/25/96,1/1/99
+12478,Yahiko,Hopewell,Senior Staff,7/5/97,12/11/98
+12478,Yahiko,Hopewell,Staff,7/6/91,7/5/97
+12480,Tetsushi,Schade,Staff,12/21/97,1/1/99
+12482,Chandrasekaran,Rijckaert,Engineer,8/12/93,8/12/01
+12482,Chandrasekaran,Rijckaert,Senior Engineer,8/12/01,10/17/01
+12487,Mona,Reghbati,Senior Staff,12/7/98,1/1/99
+12488,Etsuo,Gerteisen,Engineer,4/27/90,4/27/95
+12488,Etsuo,Gerteisen,Senior Engineer,4/27/95,1/1/99
+12489,Arnould,Munck,Senior Engineer,4/11/86,1/1/99
+12490,Jackson,Muchinsky,Engineer,5/9/94,5/8/00
+12490,Jackson,Muchinsky,Senior Engineer,5/8/00,1/1/99
+12492,Kristinn,Hammerschmidt,Senior Engineer,11/16/92,1/1/99
+12493,Filipp,Menhardt,Senior Engineer,8/8/88,12/4/88
+12497,Stein,Penz,Senior Staff,9/25/97,1/1/99
+12497,Stein,Penz,Staff,9/25/89,9/25/97
+12499,Izaskun,Lamba,Senior Staff,8/27/97,1/1/99
+12499,Izaskun,Lamba,Staff,8/27/90,8/27/97
+12501,Morrie,Matheson,Senior Staff,6/5/86,1/1/99
+12502,Danil,VanScheik,Senior Engineer,6/6/89,1/1/99
+12504,Adly,Rosaz,Engineer,8/14/97,1/1/99
+12505,Barton,Goldhammer,Senior Staff,8/24/99,2/18/02
+12506,Gay,Rodite,Assistant Engineer,8/29/90,8/29/97
+12506,Gay,Rodite,Engineer,8/29/97,1/1/99
+12509,Rutger,Krzyzanowski,Senior Staff,9/25/97,1/1/99
+12509,Rutger,Krzyzanowski,Staff,9/26/91,9/25/97
+12514,Tomofumi,Melter,Engineer,11/13/99,1/1/99
+12515,Pranav,Wilharm,Engineer,1/27/94,1/27/00
+12515,Pranav,Wilharm,Senior Engineer,1/27/00,1/1/99
+12520,Goetz,Basart,Engineer,3/6/99,1/1/99
+12522,Trygve,Zhang,Technique Leader,1/28/99,1/1/99
+12523,Tonia,Casley,Senior Staff,1/22/90,1/1/99
+12524,Tetsushi,Demeyer,Engineer,12/19/96,1/1/99
+12528,Conor,Cincotta,Senior Staff,9/24/97,1/1/99
+12528,Conor,Cincotta,Staff,9/24/88,9/24/97
+12534,Yongmao,Gerlach,Senior Engineer,8/14/85,1/1/99
+12537,Avishai,Gonthier,Senior Staff,5/19/01,1/1/99
+12537,Avishai,Gonthier,Staff,5/19/92,5/19/01
+12540,Poornachandra,Bresenham,Senior Staff,11/28/98,1/1/99
+12541,Shih,Nanard,Senior Staff,8/31/96,1/1/99
+12541,Shih,Nanard,Staff,8/31/88,8/31/96
+12542,Kazuhide,Bouloucos,Senior Staff,9/11/93,1/1/99
+12542,Kazuhide,Bouloucos,Staff,9/12/87,9/11/93
+12551,Jeane,Tzvieli,Engineer,12/4/87,12/3/93
+12551,Jeane,Tzvieli,Senior Engineer,12/3/93,1/1/99
+12552,Mechthild,Zongker,Staff,8/22/98,8/15/00
+12553,Aral,Vesna,Senior Staff,2/28/87,1/1/99
+12555,Spyrose,DuCasse,Assistant Engineer,7/23/95,1/1/99
+12557,Stafford,Kopetz,Senior Engineer,3/20/88,1/1/99
+12558,Danco,Niizuma,Senior Engineer,8/12/89,1/1/99
+12563,Honesty,Ducloy,Engineer,3/8/98,1/1/99
+12564,Remco,Nitsche,Staff,11/3/98,1/1/99
+12568,Marlo,Boyle,Engineer,4/15/97,8/12/01
+12571,Abdelaziz,Candan,Assistant Engineer,4/23/97,4/23/02
+12571,Abdelaziz,Candan,Engineer,4/23/02,1/1/99
+12574,Mong,Gelosh,Engineer,1/8/99,1/1/99
+12586,Oguz,Tasistro,Engineer,4/30/94,4/30/01
+12586,Oguz,Tasistro,Senior Engineer,4/30/01,1/1/99
+12588,Yagil,Kenevan,Engineer,2/8/97,2/8/02
+12588,Yagil,Kenevan,Senior Engineer,2/8/02,1/1/99
+12589,Anoosh,Chleq,Engineer,9/8/88,9/8/97
+12589,Anoosh,Chleq,Senior Engineer,9/8/97,1/1/99
+12590,Gita,Rosenbaum,Senior Staff,2/25/93,1/1/99
+12596,Breannda,Roisin,Senior Staff,9/29/96,1/1/99
+12597,Kazuhito,Petereit,Senior Staff,12/13/99,1/1/99
+12601,Ghassan,Simkin,Assistant Engineer,7/9/92,7/9/97
+12601,Ghassan,Simkin,Engineer,7/9/97,7/9/02
+12601,Ghassan,Simkin,Senior Engineer,7/9/02,1/1/99
+12603,Utpal,Roison,Staff,6/10/97,1/1/99
+12608,Nectarios,Mondadori,Senior Staff,2/22/00,1/1/99
+12608,Nectarios,Mondadori,Staff,2/22/91,2/22/00
+12612,Chandrasekaran,Thimonier,Staff,5/29/99,1/1/99
+12617,Shawna,Rusterholz,Senior Staff,3/2/96,1/1/99
+12617,Shawna,Rusterholz,Staff,3/3/91,3/2/96
+12623,Raimond,Scharstein,Senior Staff,11/3/00,1/1/99
+12623,Raimond,Scharstein,Staff,11/4/91,11/3/00
+12626,Gill,Comyn,Assistant Engineer,9/25/90,9/25/95
+12626,Gill,Comyn,Engineer,9/25/95,9/24/00
+12626,Gill,Comyn,Senior Engineer,9/24/00,1/1/99
+12630,Sreekrishna,Falco,Senior Staff,6/3/97,1/1/99
+12630,Sreekrishna,Falco,Staff,6/3/89,6/3/97
+12635,Xinyu,Restivo,Engineer,2/3/95,2/3/00
+12635,Xinyu,Restivo,Senior Engineer,2/3/00,1/1/99
+12636,Yuuichi,Debuse,Senior Staff,10/22/96,1/1/99
+12636,Yuuichi,Debuse,Staff,10/22/89,10/22/96
+12637,Poorav,Karner,Senior Staff,11/2/95,1/8/99
+12637,Poorav,Karner,Staff,11/2/90,11/2/95
+12638,Yuqun,Seiwald,Engineer,4/29/99,1/1/99
+12639,Zeljko,Schapire,Engineer,5/21/94,5/21/02
+12639,Zeljko,Schapire,Senior Engineer,5/21/02,1/1/99
+12642,Suebskul,Gips,Senior Staff,10/28/01,1/1/99
+12642,Suebskul,Gips,Staff,10/28/96,10/28/01
+12644,Bernt,Jayawardene,Engineer,10/29/89,10/29/94
+12644,Bernt,Jayawardene,Senior Engineer,10/29/94,1/1/99
+12645,Kyoichi,Decaestecker,Staff,5/21/99,1/1/99
+12651,Pragnesh,Bael,Senior Staff,1/27/88,1/1/99
+12656,Seshu,Morton,Senior Staff,6/27/01,1/1/99
+12656,Seshu,Morton,Staff,6/27/94,6/27/01
+12662,Leucio,Alvarado,Assistant Engineer,8/27/85,8/27/94
+12662,Leucio,Alvarado,Engineer,8/27/94,1/1/99
+12663,Nobuyoshi,Stellhorn,Technique Leader,9/29/86,1/1/99
+12664,Zhonghua,Parveen,Staff,8/4/99,1/1/99
+12665,Amalendu,Lanphier,Staff,6/1/95,12/14/97
+12666,Stamatina,Prenel,Engineer,4/19/98,1/1/99
+12670,Seongbae,Alameldin,Engineer,9/10/99,1/1/99
+12672,Mayumi,Varman,Senior Engineer,4/2/98,1/1/99
+12678,Carrsten,Borovoy,Engineer,6/26/99,4/22/00
+12680,Bader,Staudhammer,Staff,11/12/95,1/1/99
+12687,Weicheng,Badache,Staff,4/12/98,1/1/99
+12689,Luerbio,Boudaillier,Engineer,11/23/92,11/23/01
+12689,Luerbio,Boudaillier,Senior Engineer,11/23/01,1/1/99
+12691,Oddvar,Gils,Engineer,8/25/92,8/25/98
+12691,Oddvar,Gils,Senior Engineer,8/25/98,1/1/99
+12694,Kazuhira,Luders,Engineer,12/1/95,5/30/98
+12697,Uri,Brizzi,Senior Staff,7/11/94,1/1/99
+12697,Uri,Brizzi,Staff,7/11/86,7/11/94
+12707,Gregory,Zastre,Staff,6/24/98,1/1/99
+12709,Ronghao,Botman,Engineer,2/26/95,2/25/01
+12709,Ronghao,Botman,Senior Engineer,2/25/01,1/1/99
+12715,Honglan,Showalter,Staff,7/5/96,1/1/99
+12717,Tzu,Jiafu,Staff,10/20/99,1/1/99
+12721,Sajjan,Szilard,Engineer,8/20/94,12/19/00
+12722,Elliott,Cheshire,Senior Staff,3/29/85,1/1/99
+12725,Inderjeet,Flexer,Senior Staff,5/28/99,1/1/99
+12725,Inderjeet,Flexer,Staff,5/28/94,5/28/99
+12726,Fumitake,Panwar,Senior Engineer,5/19/94,1/1/99
+12729,Nahla,Rahier,Engineer,10/15/92,10/15/97
+12729,Nahla,Rahier,Senior Engineer,10/15/97,1/1/99
+12730,Barry,Perl,Technique Leader,7/24/93,3/24/98
+12731,Yongmao,Waymire,Senior Staff,4/5/88,1/1/99
+12732,Mara,Takanami,Senior Staff,4/6/88,1/1/99
+12734,Gil,Frijda,Senior Engineer,3/3/86,1/1/99
+12746,Heekeun,Lunn,Engineer,7/8/91,7/8/99
+12746,Heekeun,Lunn,Senior Engineer,7/8/99,1/1/99
+12747,Salvador,Atrawala,Technique Leader,5/23/94,1/1/99
+12748,Berry,Kakkar,Engineer,12/13/98,1/1/99
+12753,Kazuhito,Syrotiuk,Engineer,8/26/91,8/26/99
+12753,Kazuhito,Syrotiuk,Senior Engineer,8/26/99,1/1/99
+12754,Ronnie,Tetzlaff,Engineer,9/17/93,9/17/98
+12754,Ronnie,Tetzlaff,Senior Engineer,9/17/98,1/1/99
+12755,Rildo,Rodite,Senior Staff,3/18/94,1/1/99
+12755,Rildo,Rodite,Staff,3/18/87,3/18/94
+12758,Hauke,Pashtan,Staff,11/19/99,2/20/02
+12759,LiMin,Kuszyk,Senior Staff,5/31/87,1/2/96
+12761,Hitofumi,Schaad,Senior Staff,5/6/02,1/1/99
+12761,Hitofumi,Schaad,Staff,5/6/96,5/6/02
+12768,Mingdong,Stiles,Engineer,5/9/90,5/30/92
+12769,Abdelwaheb,Gluchowski,Engineer,9/2/94,1/1/99
+12770,Maik,Benzaken,Senior Staff,11/16/90,1/1/99
+12773,Jenwei,Lovengreen,Engineer,3/5/85,3/5/94
+12773,Jenwei,Lovengreen,Senior Engineer,3/5/94,1/1/99
+12774,Moon,Asrin,Engineer,8/2/97,1/1/99
+12775,Mariangiola,Berendt,Assistant Engineer,2/24/91,2/24/99
+12775,Mariangiola,Berendt,Engineer,2/24/99,4/5/02
+12777,Sreenivas,Cichocki,Senior Staff,8/20/99,1/1/99
+12777,Sreenivas,Cichocki,Staff,8/20/94,8/20/99
+12785,Bouchung,Armand,Senior Engineer,12/29/96,1/1/99
+12786,Weiyi,Schusler,Engineer,12/8/99,1/1/99
+12789,Sanjai,Felcyn,Engineer,9/24/96,1/1/99
+12790,Gunilla,Perl,Senior Staff,8/7/00,1/1/99
+12790,Gunilla,Perl,Staff,8/8/95,8/7/00
+12795,Masoud,Fordan,Senior Staff,6/23/97,1/1/99
+12795,Masoud,Fordan,Staff,6/23/88,6/23/97
+12796,Saniya,Stanfel,Engineer,5/24/92,5/24/01
+12796,Saniya,Stanfel,Senior Engineer,5/24/01,1/1/99
+12798,Lillian,Beeson,Senior Staff,12/26/96,1/1/99
+12798,Lillian,Beeson,Staff,12/27/87,12/26/96
+12799,Tiina,Businaro,Senior Staff,12/25/93,1/1/99
+12803,Gad,Boissier,Senior Staff,3/16/90,1/1/99
+12803,Gad,Boissier,Staff,3/16/85,3/16/90
+12807,Gretta,Babb,Senior Engineer,8/6/96,1/1/99
+12810,Kristof,Staelin,Technique Leader,7/6/96,1/1/99
+12814,Jaques,Kohling,Technique Leader,6/7/98,11/24/98
+12815,Sushant,Junot,Senior Staff,2/27/93,1/1/99
+12815,Sushant,Junot,Staff,2/27/85,2/27/93
+12816,Freyja,Ramras,Engineer,4/18/85,4/18/92
+12816,Freyja,Ramras,Senior Engineer,4/18/92,9/8/99
+12819,Mountaz,Gubsky,Engineer,9/9/89,9/9/96
+12819,Mountaz,Gubsky,Senior Engineer,9/9/96,1/1/99
+12821,Arco,Gihr,Engineer,5/4/97,1/1/99
+12825,Sakthirel,Cannata,Senior Engineer,8/25/92,1/16/98
+12828,Oksana,Camurati,Staff,6/7/99,1/1/99
+12829,Harngdar,Harbusch,Engineer,7/6/95,7/5/00
+12829,Harngdar,Harbusch,Senior Engineer,7/5/00,1/1/99
+12831,Maris,Baja,Engineer,8/13/96,5/30/02
+12840,Zhensheng,Ferretti,Engineer,9/10/94,1/1/99
+12843,Yinlin,Heijenga,Engineer,10/23/93,10/23/98
+12843,Yinlin,Heijenga,Senior Engineer,10/23/98,1/1/99
+12846,Krisda,Cyne,Senior Staff,10/15/00,1/15/01
+12846,Krisda,Cyne,Staff,10/16/94,10/15/00
+12848,Kazuhide,Smeets,Engineer,5/11/97,1/1/99
+12851,Kwangyoen,Ramsay,Staff,8/25/98,1/1/99
+12853,Mang,Brobst,Senior Staff,1/4/93,10/3/96
+12853,Mang,Brobst,Staff,1/5/87,1/4/93
+12855,Mabhin,Murrill,Senior Staff,8/12/97,1/1/99
+12855,Mabhin,Murrill,Staff,8/12/92,8/12/97
+12857,Alagu,Gils,Senior Engineer,7/5/95,1/1/99
+12863,Leif,Matheson,Engineer,9/6/85,9/6/90
+12863,Leif,Matheson,Senior Engineer,9/6/90,1/1/99
+12865,Katsuyuki,Rothe,Senior Staff,2/14/94,1/1/99
+12868,Berthier,Nanard,Senior Engineer,1/7/90,1/1/99
+12869,Jacopo,Swiler,Staff,1/2/99,1/1/99
+12871,Shay,Zockler,Staff,10/15/92,9/10/93
+12872,Marl,Schmittgen,Senior Staff,9/9/93,1/1/99
+12872,Marl,Schmittgen,Staff,9/9/86,9/9/93
+12876,Apostol,Goodrum,Engineer,9/1/99,12/24/00
+12879,Baruch,Eugenio,Engineer,6/11/90,6/11/95
+12879,Baruch,Eugenio,Senior Engineer,6/11/95,1/1/99
+12881,Huai,Yurek,Staff,8/25/99,1/1/99
+12885,Anwar,Collavizza,Senior Engineer,9/11/90,1/1/99
+12887,Hilari,DuBourdieux,Engineer,9/19/94,9/19/01
+12887,Hilari,DuBourdieux,Senior Engineer,9/19/01,1/1/99
+12888,Martien,Erni,Senior Staff,5/6/92,4/7/95
+12888,Martien,Erni,Staff,5/7/86,5/6/92
+12889,Mayumi,Mukaidono,Engineer,4/28/99,1/1/99
+12890,Neven,Casley,Senior Staff,10/31/85,1/1/99
+12893,Licheng,Crouzet,Senior Staff,3/18/95,1/1/99
+12893,Licheng,Crouzet,Staff,3/18/87,3/18/95
+12895,Roddy,Serot,Senior Engineer,8/15/93,1/1/99
+12899,Chinho,Sethi,Senior Staff,1/13/98,1/1/99
+12899,Chinho,Sethi,Staff,1/13/89,1/13/98
+12905,Munehiro,Gecsei,Engineer,7/19/87,7/18/93
+12905,Munehiro,Gecsei,Senior Engineer,7/18/93,1/1/99
+12910,Uno,Casley,Staff,3/16/98,1/1/99
+12915,Arco,Ligten,Senior Staff,3/31/00,1/1/99
+12915,Arco,Ligten,Staff,4/1/94,3/31/00
+12922,Jacqueline,Porenta,Senior Staff,11/20/85,9/16/93
+12923,Chaosheng,Journel,Engineer,1/2/90,1/2/97
+12923,Chaosheng,Journel,Senior Engineer,1/2/97,1/1/99
+12926,Heekeun,Luby,Senior Staff,12/24/92,1/1/99
+12926,Heekeun,Luby,Staff,12/24/85,12/24/92
+12934,Adil,Solares,Engineer,10/15/89,10/15/96
+12934,Adil,Solares,Senior Engineer,10/15/96,1/1/99
+12936,Reinhold,Farrow,Technique Leader,11/10/94,1/1/99
+12937,Arup,Cincotta,Staff,10/27/91,12/14/92
+12940,Odinaldo,Farrar,Engineer,12/12/87,12/11/92
+12940,Odinaldo,Farrar,Senior Engineer,12/11/92,1/1/99
+12941,Tommaso,Perelgut,Engineer,11/6/86,11/6/95
+12941,Tommaso,Perelgut,Senior Engineer,11/6/95,1/1/99
+12944,Alselm,Benzmuller,Senior Staff,6/24/01,1/1/99
+12944,Alselm,Benzmuller,Staff,6/25/95,6/24/01
+12949,Geoff,Asrin,Engineer,2/12/87,2/12/92
+12949,Geoff,Asrin,Senior Engineer,2/12/92,1/1/99
+12951,Mohammad,Keirsey,Senior Staff,9/17/87,7/27/94
+12960,Tayeb,Navazio,Engineer,8/19/94,1/1/99
+12962,Paraskevi,Beerel,Senior Staff,10/21/01,1/1/99
+12962,Paraskevi,Beerel,Staff,10/21/93,10/21/01
+12969,Mohan,Angot,Senior Staff,2/5/99,1/1/99
+12969,Mohan,Angot,Staff,2/5/92,2/5/99
+12972,Juyoung,Azevdeo,Staff,4/3/88,8/7/90
+12974,Gift,Frolund,Senior Staff,10/24/94,11/3/94
+12974,Gift,Frolund,Staff,10/24/86,10/24/94
+12977,Byong,Markovitch,Engineer,8/24/87,8/23/92
+12977,Byong,Markovitch,Senior Engineer,8/23/92,1/1/99
+12981,Maren,Merro,Engineer,2/1/95,3/16/98
+12982,Sachem,Aamodt,Engineer,1/11/92,1/11/00
+12982,Sachem,Aamodt,Senior Engineer,1/11/00,1/1/99
+12983,Elliott,Hambrick,Staff,6/28/99,1/1/99
+12984,Atilio,Krohm,Engineer,5/3/93,3/10/94
+12986,Khun,Hennebert,Senior Engineer,9/20/90,1/1/99
+12987,Youngkon,Kading,Engineer,5/3/93,5/3/01
+12987,Youngkon,Kading,Senior Engineer,5/3/01,1/1/99
+13000,Adhemar,Chiodo,Engineer,7/5/97,1/1/99
+13002,Henk,Muhlberg,Senior Engineer,5/3/94,1/1/99
+13004,Fan,Beznosov,Engineer,5/18/90,5/17/96
+13004,Fan,Beznosov,Senior Engineer,5/17/96,1/1/99
+13008,Jayesh,Zaumen,Engineer,1/7/00,1/1/99
+13011,Aamer,Glowinski,Technique Leader,5/18/95,1/1/99
+13012,Florina,Harbusch,Senior Engineer,12/24/87,5/24/02
+13013,Heekeun,Baak,Engineer,1/22/00,1/1/99
+13027,Paraskevi,Kohling,Technique Leader,1/23/92,1/1/99
+13030,Yahiko,Kroll,Senior Staff,11/25/99,1/1/99
+13030,Yahiko,Kroll,Staff,11/25/93,11/25/99
+13034,Arunas,Rosen,Senior Staff,6/23/92,1/1/99
+13046,Vivian,Stafford,Senior Staff,4/19/87,1/1/99
+13047,Atilio,Chelton,Engineer,2/26/92,2/25/97
+13047,Atilio,Chelton,Senior Engineer,2/25/97,1/1/99
+13048,Kerhong,Massonet,Senior Engineer,11/14/96,1/1/99
+13049,Fan,Naudin,Staff,10/6/85,1/8/86
+13052,Aleksandar,Schlenzig,Engineer,7/27/91,7/26/96
+13052,Aleksandar,Schlenzig,Senior Engineer,7/26/96,1/1/99
+13054,Samphel,Masamoto,Engineer,12/21/94,12/21/01
+13054,Samphel,Masamoto,Senior Engineer,12/21/01,1/1/99
+13062,Xinglin,Baak,Technique Leader,1/8/93,5/31/00
+13065,Zine,Schiper,Senior Staff,1/26/01,1/1/99
+13065,Zine,Schiper,Staff,1/27/92,1/26/01
+13067,Wayne,Kornyak,Senior Engineer,11/24/94,1/1/99
+13073,Utpal,Journel,Staff,10/25/95,5/17/01
+13075,Rosella,Morrin,Senior Staff,8/17/91,1/1/99
+13075,Rosella,Morrin,Staff,8/17/86,8/17/91
+13076,Deniz,Skafidas,Engineer,1/28/95,1/1/99
+13084,Domenico,Pagter,Senior Staff,3/2/02,1/1/99
+13084,Domenico,Pagter,Staff,3/2/95,3/2/02
+13086,Dzung,Domenig,Senior Staff,1/27/00,1/1/99
+13087,Gor,Ranft,Senior Engineer,12/7/90,7/22/98
+13093,Sajjan,Unno,Staff,9/18/99,1/1/99
+13095,Khedija,Cochrane,Staff,5/3/99,1/6/00
+13096,Ibibia,Armand,Engineer,4/22/94,4/22/01
+13096,Ibibia,Armand,Senior Engineer,4/22/01,1/1/99
+13103,Srinidhi,Ellozy,Senior Engineer,6/19/88,1/1/99
+13108,Rance,Matteis,Senior Staff,12/14/89,1/1/99
+13110,Maria,Kamble,Senior Engineer,7/16/89,1/1/99
+13113,Kwun,Landherr,Staff,1/16/93,10/7/96
+13124,Quingbo,Garnick,Senior Staff,3/17/85,1/1/99
+13126,Parviz,Hennebert,Engineer,3/8/94,3/8/02
+13126,Parviz,Hennebert,Senior Engineer,3/8/02,1/1/99
+13133,Guther,Senzako,Senior Staff,9/3/91,1/1/99
+13133,Guther,Senzako,Staff,9/3/85,9/3/91
+13134,Lorien,Chepyzhov,Engineer,10/23/87,10/22/93
+13134,Lorien,Chepyzhov,Senior Engineer,10/22/93,1/1/99
+13140,Shuji,Vidal,Staff,5/30/99,1/1/99
+13143,Qingxiang,Ventosa,Technique Leader,2/25/90,1/1/99
+13144,Persi,Nollmann,Senior Staff,6/19/97,1/1/99
+13144,Persi,Nollmann,Staff,6/19/89,6/19/97
+13146,Haldon,Erie,Senior Staff,5/25/85,1/1/99
+13147,Shichao,Ginesta,Senior Staff,6/29/98,1/1/99
+13147,Shichao,Ginesta,Staff,6/29/93,6/29/98
+13149,Alejandro,Gill,Assistant Engineer,11/5/92,2/20/96
+13150,Mahmut,Stavenow,Technique Leader,6/15/91,1/1/99
+13156,Akeel,Millington,Engineer,8/18/92,8/18/00
+13156,Akeel,Millington,Senior Engineer,8/18/00,1/1/99
+13159,Jingling,Ranst,Staff,8/12/99,1/1/99
+13161,Manu,Picci,Engineer,1/2/90,1/2/96
+13161,Manu,Picci,Senior Engineer,1/2/96,1/1/99
+13165,Lucian,Benner,Engineer,3/16/88,3/17/95
+13165,Lucian,Benner,Senior Engineer,3/17/95,1/1/99
+13168,Munir,Stentiford,Engineer,9/11/87,9/10/92
+13168,Munir,Stentiford,Senior Engineer,9/10/92,1/1/99
+13170,Cheong,Bernardeschi,Senior Staff,1/9/98,1/1/99
+13170,Cheong,Bernardeschi,Staff,1/9/93,1/9/98
+13171,Anoosh,Birnbaum,Engineer,8/31/87,8/31/95
+13171,Anoosh,Birnbaum,Senior Engineer,8/31/95,1/1/99
+13173,Arve,Horswill,Senior Staff,9/23/96,1/1/99
+13173,Arve,Horswill,Staff,9/24/87,9/23/96
+13175,Yucai,Swick,Engineer,1/20/91,1/20/98
+13175,Yucai,Swick,Senior Engineer,1/20/98,1/1/99
+13179,Moty,Janocha,Staff,2/19/99,1/1/99
+13182,Kokou,Rodite,Engineer,3/3/99,1/1/99
+13186,Kyoichi,Barbanera,Senior Staff,4/29/95,1/1/99
+13186,Kyoichi,Barbanera,Staff,4/29/86,4/29/95
+13189,Yuuichi,Bazzichi,Staff,10/16/99,1/1/99
+13192,Rosita,Flowers,Technique Leader,2/1/93,1/1/99
+13197,Rosita,Litzler,Staff,9/14/93,7/31/95
+13200,Weidon,Pauthner,Engineer,8/7/91,8/7/98
+13200,Weidon,Pauthner,Senior Engineer,8/7/98,1/1/99
+13202,Aram,Scharstein,Senior Staff,3/28/92,1/1/99
+13202,Aram,Scharstein,Staff,3/29/86,3/28/92
+13203,Phule,Emmart,Senior Staff,1/12/95,1/1/99
+13203,Phule,Emmart,Staff,1/12/90,1/12/95
+13204,Mircea,Pellegrinelli,Assistant Engineer,12/16/96,1/1/99
+13206,Tetsurou,Rullman,Staff,9/6/99,1/1/99
+13210,Jianhua,Klassen,Senior Staff,7/27/02,1/1/99
+13210,Jianhua,Klassen,Staff,7/27/97,7/27/02
+13213,Hein,Billawala,Senior Staff,8/30/93,1/1/99
+13213,Hein,Billawala,Staff,8/30/88,8/30/93
+13216,Stabislas,Weedman,Staff,5/23/99,1/1/99
+13221,Premsyl,Famili,Senior Staff,2/26/93,10/21/98
+13221,Premsyl,Famili,Staff,2/27/87,2/26/93
+13227,Goncalo,Pell,Staff,2/3/97,1/1/99
+13232,Mitchel,Fujisaki,Technique Leader,6/2/86,1/1/99
+13233,Alselm,Chvatal,Engineer,3/31/87,3/31/95
+13233,Alselm,Chvatal,Senior Engineer,3/31/95,1/1/99
+13235,Taizo,Remmers,Engineer,4/23/98,1/1/99
+13238,Ebru,Foote,Senior Staff,10/10/98,1/1/99
+13238,Ebru,Foote,Staff,10/10/93,10/10/98
+13240,King,Pileggi,Engineer,3/10/94,3/10/01
+13240,King,Pileggi,Senior Engineer,3/10/01,1/1/99
+13243,Fay,Huxford,Staff,9/18/99,11/11/99
+13246,Adil,Siepmann,Staff,12/31/99,1/1/99
+13248,Keiichiro,Guting,Staff,6/21/94,7/22/98
+13249,Oldrich,Rissland,Staff,6/4/92,9/24/97
+13250,Zeydy,Schusler,Assistant Engineer,10/28/88,10/28/93
+13250,Zeydy,Schusler,Engineer,10/28/93,10/27/98
+13250,Zeydy,Schusler,Senior Engineer,10/27/98,1/1/99
+13252,Morris,Kavvadias,Staff,4/4/97,1/1/99
+13260,JoAnna,McDermid,Technique Leader,2/8/97,1/1/99
+13261,Martial,Peternell,Staff,7/28/94,10/12/00
+13263,Subhash,Zockler,Senior Staff,6/17/98,1/1/99
+13263,Subhash,Zockler,Staff,6/17/90,6/17/98
+13272,Arun,Jiang,Senior Staff,3/10/85,1/1/99
+13276,Yechiam,Seuren,Senior Staff,3/9/91,1/1/99
+13276,Yechiam,Seuren,Staff,3/9/86,3/9/91
+13282,Cordelia,Macedo,Senior Staff,4/16/95,1/1/99
+13282,Cordelia,Macedo,Staff,4/16/89,4/16/95
+13288,Muneo,Broomell,Senior Staff,4/14/95,1/1/99
+13288,Muneo,Broomell,Staff,4/14/87,4/14/95
+13290,Stamatina,Karner,Staff,12/24/95,1/1/99
+13291,Georg,Stamatiou,Engineer,10/30/86,10/30/93
+13291,Georg,Stamatiou,Senior Engineer,10/30/93,1/1/99
+13294,Haldun,Stroustrup,Staff,12/20/97,1/1/99
+13299,Guiseppe,Butner,Staff,3/8/97,9/13/98
+13302,Mack,Alencar,Engineer,9/26/90,9/26/97
+13302,Mack,Alencar,Senior Engineer,9/26/97,1/1/99
+13303,Koldo,Rissanen,Staff,3/1/97,1/1/99
+13305,Bikash,Herath,Senior Staff,7/17/94,1/19/95
+13305,Bikash,Herath,Staff,7/17/85,7/17/94
+13309,Toshimori,Lipner,Senior Engineer,12/25/97,1/1/99
+13312,Filipp,Schurmann,Engineer,5/1/98,1/1/99
+13315,Sakthirel,Stroustrup,Engineer,6/2/91,6/2/99
+13315,Sakthirel,Stroustrup,Senior Engineer,6/2/99,1/1/99
+13320,Gino,Bahr,Engineer,4/10/93,4/10/02
+13320,Gino,Bahr,Senior Engineer,4/10/02,1/1/99
+13321,Rasikan,Portugali,Engineer,5/14/94,8/5/94
+13329,Ottavia,Rissland,Senior Staff,2/18/96,5/30/02
+13329,Ottavia,Rissland,Staff,2/18/90,2/18/96
+13332,Nidapan,Pearson,Assistant Engineer,9/24/87,9/23/92
+13332,Nidapan,Pearson,Engineer,9/23/92,9/23/97
+13332,Nidapan,Pearson,Senior Engineer,9/23/97,1/1/99
+13333,Yoshinari,Hennebert,Assistant Engineer,3/23/88,3/23/96
+13333,Yoshinari,Hennebert,Engineer,3/23/96,1/1/99
+13341,Bodh,Doering,Senior Staff,3/10/92,1/1/99
+13341,Bodh,Doering,Staff,3/11/86,3/10/92
+13342,Georgy,Doering,Engineer,3/12/99,1/1/99
+13343,Heon,Usery,Senior Staff,7/30/95,1/1/99
+13343,Heon,Usery,Staff,7/29/88,7/30/95
+13346,Francoise,Zastre,Engineer,9/29/93,9/29/01
+13346,Francoise,Zastre,Senior Engineer,9/29/01,1/1/99
+13347,Lein,Sifakis,Engineer,5/25/94,5/24/00
+13347,Lein,Sifakis,Senior Engineer,5/24/00,1/1/99
+13349,Zeydy,Danner,Senior Staff,10/2/93,1/1/99
+13357,Mabry,Llado,Engineer,1/24/99,1/1/99
+13359,Pragnesh,Kragelund,Senior Engineer,5/29/99,1/1/01
+13361,Wilmer,Baek,Staff,5/3/96,1/1/99
+13368,Kiyokazu,Klassen,Staff,9/30/97,1/1/99
+13371,Nakhoon,Riexinger,Senior Engineer,12/13/91,1/1/99
+13373,Juichirou,Naumovich,Senior Staff,8/23/00,1/1/99
+13373,Juichirou,Naumovich,Staff,8/24/91,8/23/00
+13374,Atreye,Kalefeld,Senior Engineer,8/13/97,1/1/99
+13378,Rafols,Zhiwei,Technique Leader,7/17/98,1/1/99
+13379,Kinh,Engelmann,Senior Staff,9/7/01,1/1/99
+13379,Kinh,Engelmann,Staff,9/8/95,9/7/01
+13385,Claudi,Buchter,Senior Staff,6/10/86,1/1/99
+13386,Khosrow,Sgarro,Technique Leader,2/23/86,1/1/99
+13388,Shuji,Cesareni,Technique Leader,6/5/94,1/1/99
+13389,Divine,Cmelik,Senior Staff,3/23/88,1/1/99
+13390,Nathan,Hutton,Engineer,1/10/99,1/1/99
+13392,Fumitake,Beidas,Senior Staff,8/26/93,1/1/99
+13392,Fumitake,Beidas,Staff,8/26/88,8/26/93
+13394,Anneke,Lorys,Senior Staff,3/5/01,1/1/99
+13394,Anneke,Lorys,Staff,3/6/95,3/5/01
+13396,Chuanyi,Aumann,Senior Staff,3/29/94,1/1/99
+13402,Augustine,Dulli,Engineer,9/12/99,1/1/99
+13405,Randy,Baba,Senior Staff,5/10/90,1/1/99
+13407,Gio,Chenoweth,Engineer,10/3/92,10/3/01
+13407,Gio,Chenoweth,Senior Engineer,10/3/01,1/1/99
+13408,Sreekrishna,Lagarias,Engineer,7/25/95,7/24/00
+13408,Sreekrishna,Lagarias,Senior Engineer,7/24/00,1/1/99
+13412,Ranga,Erdmenger,Staff,3/21/96,1/1/99
+13415,Nathalie,Speer,Technique Leader,4/25/91,1/1/99
+13416,Fox,Billawala,Engineer,4/11/96,4/11/01
+13416,Fox,Billawala,Senior Engineer,4/11/01,1/1/99
+13417,Dipayan,Condotta,Senior Staff,11/5/95,1/1/99
+13417,Dipayan,Condotta,Staff,11/5/90,11/5/95
+13422,Vishwani,Gerlach,Engineer,1/17/88,1/17/95
+13422,Vishwani,Gerlach,Senior Engineer,1/17/95,1/1/99
+13427,Sreekrishna,Narwekar,Staff,1/26/96,1/1/99
+13436,Mana,Picaronny,Senior Staff,9/20/94,12/8/95
+13439,Domenick,Ullian,Assistant Engineer,3/25/92,3/25/00
+13439,Domenick,Ullian,Engineer,3/25/00,1/1/99
+13442,Giordano,Miake,Senior Staff,6/16/94,1/1/99
+13442,Giordano,Miake,Staff,6/16/87,6/16/94
+13443,Mayuko,Puppo,Engineer,12/26/90,12/25/96
+13443,Mayuko,Puppo,Senior Engineer,12/25/96,1/1/99
+13445,Renee,Dehkordi,Engineer,11/29/96,1/1/99
+13446,Masato,Tramer,Engineer,6/3/93,4/18/95
+13451,Gretta,Weiland,Senior Staff,8/23/95,1/1/99
+13451,Gretta,Weiland,Staff,8/23/86,8/23/95
+13453,Sugwoo,Lalonde,Senior Engineer,1/9/95,1/1/99
+13456,Uzi,Erol,Senior Engineer,6/13/99,1/1/99
+13457,Shooichi,Parfitt,Engineer,1/18/86,1/18/91
+13457,Shooichi,Parfitt,Senior Engineer,1/18/91,1/1/99
+13458,Feipei,Nivat,Engineer,3/2/89,3/2/95
+13458,Feipei,Nivat,Senior Engineer,3/2/95,1/1/99
+13460,Yinghua,Gips,Engineer,5/9/93,5/9/98
+13460,Yinghua,Gips,Senior Engineer,5/9/98,1/1/99
+13463,Theron,Berstel,Engineer,1/26/88,1/25/93
+13463,Theron,Berstel,Senior Engineer,1/25/93,1/1/99
+13465,Sasan,Rehfuss,Engineer,3/12/99,1/1/99
+13467,Zhigen,Katzenelson,Senior Engineer,7/26/91,1/1/99
+13472,Dzung,Larfeldt,Engineer,8/28/97,1/1/99
+13475,Kamakshi,Piancastelli,Senior Staff,5/27/00,1/1/99
+13475,Kamakshi,Piancastelli,Staff,5/27/93,5/27/00
+13479,Youjian,Besselaar,Staff,4/25/96,9/17/96
+13493,Uinam,Jullig,Engineer,9/7/87,9/6/92
+13493,Uinam,Jullig,Senior Engineer,9/6/92,1/1/99
+13500,Irene,Erol,Senior Engineer,11/7/91,1/1/99
+13504,Parto,Mandell,Assistant Engineer,12/21/86,12/21/94
+13504,Parto,Mandell,Engineer,12/21/94,1/1/99
+13505,Chandrasekaran,Hambrick,Staff,3/26/95,1/1/99
+13520,Takahiro,Mahnke,Engineer,11/3/95,11/2/01
+13520,Takahiro,Mahnke,Senior Engineer,11/2/01,1/1/99
+13521,Jaewoo,Tasistro,Engineer,12/16/88,2/18/91
+13522,Jaewon,Vingron,Senior Staff,6/1/02,1/1/99
+13522,Jaewon,Vingron,Staff,6/1/97,6/1/02
+13523,Dines,Karunanithi,Staff,10/24/97,1/1/99
+13524,Chaoyi,Porotnikoff,Senior Staff,10/27/00,1/1/99
+13524,Chaoyi,Porotnikoff,Staff,10/28/95,10/27/00
+13535,Arunas,Schlenzig,Assistant Engineer,5/19/86,5/19/93
+13535,Arunas,Schlenzig,Engineer,5/19/93,5/19/00
+13535,Arunas,Schlenzig,Senior Engineer,5/19/00,1/1/99
+13539,Cedric,Bala,Engineer,4/2/90,4/1/97
+13539,Cedric,Bala,Senior Engineer,4/1/97,1/1/99
+13540,Cordelia,Krohn,Staff,9/16/99,1/1/99
+13544,Beshir,Sullins,Senior Staff,4/24/97,1/1/99
+13544,Beshir,Sullins,Staff,4/24/92,4/24/97
+13546,Aimee,Brookner,Engineer,10/26/88,10/26/97
+13546,Aimee,Brookner,Senior Engineer,10/26/97,1/1/99
+13549,Matk,Koprowski,Technique Leader,6/18/97,1/1/99
+13552,Ingmar,Capobianchi,Senior Staff,3/23/93,1/1/99
+13552,Ingmar,Capobianchi,Staff,3/23/85,3/23/93
+13554,Divine,Birke,Senior Staff,7/4/99,1/1/99
+13554,Divine,Birke,Staff,7/4/93,7/4/99
+13560,Sibyl,Jeong,Assistant Engineer,7/28/86,7/28/94
+13560,Sibyl,Jeong,Engineer,7/28/94,3/12/98
+13567,Sudhanshu,Pietracaprina,Senior Staff,5/24/90,4/1/02
+13571,Eben,Passino,Engineer,6/3/92,6/3/97
+13571,Eben,Passino,Senior Engineer,6/3/97,1/1/99
+13575,Kazuhiko,Hettesheimer,Senior Engineer,3/9/91,1/1/99
+13576,Jungsoon,Engberts,Senior Staff,8/29/01,1/1/99
+13576,Jungsoon,Engberts,Staff,8/29/92,8/29/01
+13578,Tadahiko,Christianini,Technique Leader,5/22/94,4/13/97
+13586,Abdelwaheb,Klassen,Engineer,7/18/89,7/18/98
+13586,Abdelwaheb,Klassen,Senior Engineer,7/18/98,1/1/99
+13591,Jinxi,Poulakidas,Assistant Engineer,6/24/99,1/1/99
+13596,Georg,Marletta,Engineer,7/24/93,7/24/02
+13596,Georg,Marletta,Senior Engineer,7/24/02,1/1/99
+13598,Subhrajyoti,Barvinok,Engineer,12/30/95,1/1/99
+13600,Baocai,Babu,Staff,9/2/97,1/1/99
+13605,Dmitry,Encarnacion,Senior Staff,9/29/91,1/1/99
+13605,Dmitry,Encarnacion,Staff,9/29/85,9/29/91
+13612,Shao,Mansanne,Engineer,6/23/96,1/1/99
+13617,Prodip,Fioravanti,Engineer,7/24/99,1/1/99
+13621,Fei,Haddadi,Assistant Engineer,2/9/87,2/9/95
+13621,Fei,Haddadi,Engineer,2/9/95,1/1/99
+13622,Tamiya,Juneja,Senior Staff,9/6/96,11/13/98
+13622,Tamiya,Juneja,Staff,9/7/91,9/6/96
+13624,Zhigen,Yurek,Senior Staff,5/11/96,1/1/99
+13624,Zhigen,Yurek,Staff,5/12/87,5/11/96
+13629,Dzung,Trelles,Engineer,1/3/87,1/3/94
+13629,Dzung,Trelles,Senior Engineer,1/3/94,1/1/99
+13630,Uzi,Kilgour,Engineer,5/6/90,4/3/96
+13642,Inderjeet,Luit,Senior Staff,3/4/00,1/1/99
+13642,Inderjeet,Luit,Staff,3/4/92,3/4/00
+13643,Geoff,Chenney,Engineer,7/8/89,7/8/95
+13643,Geoff,Chenney,Senior Engineer,7/8/95,1/1/99
+13648,Zejun,Lamba,Technique Leader,11/16/85,1/1/99
+13651,Stamatina,Plesums,Engineer,9/2/87,3/31/90
+13653,Kristen,Iivonen,Senior Staff,1/17/00,1/1/99
+13653,Kristen,Iivonen,Staff,1/17/91,1/17/00
+13660,Ziya,McConalogue,Staff,2/18/98,4/28/02
+13662,Tianruo,Zucker,Senior Staff,2/6/95,1/1/99
+13662,Tianruo,Zucker,Staff,2/6/89,2/6/95
+13670,Moti,Takanami,Senior Engineer,6/30/88,1/1/99
+13673,Kish,Levasseur,Senior Staff,8/17/00,1/1/99
+13673,Kish,Levasseur,Staff,8/17/93,8/17/00
+13680,Denny,Speer,Staff,2/5/96,1/1/99
+13683,Zhilian,Vakili,Engineer,3/9/95,3/8/00
+13683,Zhilian,Vakili,Senior Engineer,3/8/00,1/1/99
+13684,Elvia,Christ,Senior Staff,2/6/85,3/30/02
+13685,Weicheng,Hockney,Engineer,11/29/91,11/29/99
+13685,Weicheng,Hockney,Senior Engineer,11/29/99,1/1/99
+13693,Godehard,Merkl,Engineer,4/1/89,8/9/94
+13697,Shuichi,Weedon,Technique Leader,6/20/85,1/1/99
+13698,Domenico,Mitchem,Engineer,3/19/91,4/20/97
+13704,Vishu,Kumaresan,Engineer,10/1/87,10/1/95
+13704,Vishu,Kumaresan,Senior Engineer,10/1/95,1/1/99
+13708,Taizo,Bolsens,Engineer,5/10/91,5/9/00
+13708,Taizo,Bolsens,Senior Engineer,5/9/00,1/1/99
+13713,Nitsan,Porenta,Senior Staff,6/4/01,1/1/99
+13713,Nitsan,Porenta,Staff,6/4/96,6/4/01
+13719,Hugh,Porotnikoff,Senior Engineer,9/23/94,1/1/99
+13721,Sugwoo,Delgrossi,Senior Staff,9/20/01,1/1/99
+13721,Sugwoo,Delgrossi,Staff,9/21/95,9/20/01
+13727,Vitali,Merey,Staff,10/7/99,1/1/99
+13730,Munehiro,Kalorkoti,Senior Staff,7/20/99,1/1/99
+13730,Munehiro,Kalorkoti,Staff,7/20/91,7/20/99
+13738,Bangqing,Mitchem,Engineer,6/30/98,1/1/99
+13744,Hisao,Quittner,Engineer,12/24/90,12/24/99
+13744,Hisao,Quittner,Senior Engineer,12/24/99,1/1/99
+13745,Ung,Camurati,Engineer,10/23/89,10/23/95
+13745,Ung,Camurati,Senior Engineer,10/23/95,1/1/99
+13747,Masaru,Capobianchi,Senior Staff,3/6/87,12/10/87
+13758,Subhrajyoti,Sidou,Senior Staff,5/12/93,1/1/99
+13762,Fumino,Choobineh,Senior Staff,5/15/98,1/1/99
+13762,Fumino,Choobineh,Staff,5/15/90,5/15/98
+13766,Tremaine,Heemskerk,Senior Staff,8/18/86,1/1/99
+13768,Sedat,Lovengreen,Staff,11/19/86,9/18/90
+13769,Yakichi,Trogemann,Senior Staff,10/18/88,1/1/99
+13772,Khalil,Klyachko,Engineer,6/20/97,1/1/99
+13775,Arve,Maierhofer,Senior Staff,10/21/94,1/1/99
+13775,Arve,Maierhofer,Staff,10/21/87,10/21/94
+13776,Marjo,Brookner,Senior Staff,3/19/01,1/1/99
+13776,Marjo,Brookner,Staff,3/20/95,3/19/01
+13786,Takushi,Berendt,Senior Staff,5/19/95,1/1/99
+13786,Takushi,Berendt,Staff,5/19/89,5/19/95
+13787,Xiaobin,Sinicrope,Engineer,10/30/90,10/29/96
+13787,Xiaobin,Sinicrope,Senior Engineer,10/29/96,1/1/99
+13788,Takahira,Furedi,Assistant Engineer,4/3/97,4/12/97
+13792,Valery,Sury,Senior Staff,7/27/91,1/1/99
+13792,Valery,Sury,Staff,7/27/85,7/27/91
+13795,Mayuri,Gewali,Technique Leader,8/4/86,3/13/88
+13796,Paloma,Thorelli,Engineer,1/1/96,1/1/99
+13797,Juyoung,Leonhardt,Senior Staff,4/13/98,1/1/99
+13797,Juyoung,Leonhardt,Staff,4/13/92,4/13/98
+13798,Khosrow,Tischendorf,Engineer,2/17/91,2/17/96
+13798,Khosrow,Tischendorf,Senior Engineer,2/17/96,1/1/99
+13799,Chriss,Backhouse,Technique Leader,7/8/93,1/1/99
+13800,Nikolaus,Gammage,Technique Leader,3/25/98,1/1/99
+13801,Shih,Mayerwieser,Staff,5/26/99,6/25/99
+13807,Lenore,Itzigehl,Staff,3/24/93,5/21/95
+13809,Kiyotoshi,Basagni,Senior Staff,1/12/91,1/1/99
+13809,Kiyotoshi,Basagni,Staff,1/12/86,1/12/91
+13811,Kien,Azadmanesh,Engineer,11/14/89,11/14/97
+13811,Kien,Azadmanesh,Senior Engineer,11/14/97,1/1/99
+13815,Guadalupe,Plotkin,Engineer,9/9/85,9/9/93
+13815,Guadalupe,Plotkin,Senior Engineer,9/9/93,1/1/99
+13825,Arlette,Pell,Technique Leader,8/2/86,1/1/99
+13831,Yinghua,Rikino,Technique Leader,7/26/95,1/1/99
+13832,Hidefumi,Siepmann,Staff,10/6/93,5/5/99
+13838,Giao,Stellhorn,Senior Staff,3/1/95,1/1/99
+13838,Giao,Stellhorn,Staff,3/1/89,3/1/95
+13840,Remco,Demke,Engineer,12/12/98,12/30/99
+13841,Christophe,Spinelli,Technique Leader,2/1/92,1/1/99
+13842,Juichirou,Cichocki,Senior Staff,4/20/00,1/1/99
+13842,Juichirou,Cichocki,Staff,4/21/91,4/20/00
+13846,Guiseppe,Welham,Senior Staff,3/20/85,1/1/99
+13847,Dhritiman,Gulik,Technique Leader,6/2/98,1/1/99
+13853,Mingsen,Roohalamini,Senior Staff,3/25/91,1/1/99
+13856,Xiping,Conta,Senior Staff,4/26/95,1/1/99
+13857,Mostafa,Ferriere,Senior Engineer,11/9/90,1/1/99
+13859,Anoosh,Fujisawa,Engineer,8/23/87,8/22/92
+13859,Anoosh,Fujisawa,Senior Engineer,8/22/92,1/1/99
+13861,Parke,Serna,Engineer,6/12/95,1/1/99
+13863,Reinhard,Baig,Senior Staff,3/23/99,1/1/99
+13863,Reinhard,Baig,Staff,3/23/90,3/23/99
+13870,Theirry,Kirkerud,Engineer,2/17/97,1/1/99
+13875,Genta,Manders,Senior Engineer,1/21/92,1/1/99
+13883,Kwangyoen,Barreiro,Senior Engineer,2/23/88,8/26/91
+13884,Kensei,Swift,Engineer,12/21/98,1/1/99
+13888,Xuedong,Reghbati,Assistant Engineer,3/9/95,3/8/00
+13888,Xuedong,Reghbati,Engineer,3/8/00,1/1/99
+13894,Ult,Schonegge,Assistant Engineer,11/28/87,11/28/95
+13894,Ult,Schonegge,Engineer,11/28/95,1/1/99
+13897,JoAnna,Hardjono,Engineer,5/18/89,5/18/96
+13897,JoAnna,Hardjono,Senior Engineer,5/18/96,1/1/99
+13899,Mostafa,Crouzet,Engineer,6/14/94,1/1/99
+13902,Greger,Kilgore,Staff,8/3/99,7/16/00
+13904,Youngkon,Cairo,Senior Engineer,9/3/87,1/1/99
+13909,Szabolcs,Leslie,Staff,7/19/94,9/8/95
+13911,Fen,Jansen,Staff,11/24/93,1/1/99
+13913,Xinan,Yoshizawa,Technique Leader,12/18/97,1/1/99
+13914,Serge,Albarhamtoshy,Senior Staff,8/7/85,1/15/89
+13916,Vidya,Wynblatt,Senior Staff,6/6/95,1/12/02
+13916,Vidya,Wynblatt,Staff,6/6/86,6/6/95
+13919,Brewster,Sinicrope,Engineer,12/4/99,1/1/99
+13922,Jinpo,Langford,Senior Staff,12/25/90,1/1/99
+13924,Mary,DasSarma,Engineer,11/5/91,11/5/98
+13924,Mary,DasSarma,Senior Engineer,11/5/98,1/1/99
+13928,Mahmut,Nitta,Senior Staff,12/21/00,1/1/99
+13928,Mahmut,Nitta,Staff,12/21/93,12/21/00
+13930,Sukumar,Chartres,Senior Staff,11/26/92,4/20/00
+13930,Sukumar,Chartres,Staff,11/26/85,11/26/92
+13934,Shiv,Bratsberg,Senior Engineer,4/5/90,1/1/99
+13936,Tsz,Hambrick,Staff,6/3/94,1/1/99
+13942,Elzbieta,Esteva,Technique Leader,10/13/97,1/1/99
+13943,Maya,Plump,Senior Staff,2/5/98,1/1/99
+13943,Maya,Plump,Staff,2/5/93,2/5/98
+13944,Takahito,Maierhofer,Senior Engineer,9/15/96,1/1/99
+13946,Atilio,Sgarro,Engineer,4/2/93,4/2/00
+13946,Atilio,Sgarro,Senior Engineer,4/2/00,1/1/99
+13948,Xiaocheng,Hanratty,Staff,11/8/96,1/1/99
+13951,Mooi,Genther,Senior Staff,12/28/90,1/1/99
+13951,Mooi,Genther,Staff,12/28/85,12/28/90
+13960,Nechama,Hettesheimer,Senior Staff,4/6/96,1/1/99
+13962,Maris,Ghelli,Senior Engineer,10/26/94,1/1/99
+13966,Boguslaw,Cooman,Senior Staff,12/26/90,1/1/99
+13969,Jianwen,Chandrasekhar,Technique Leader,5/29/85,1/1/99
+13972,Seongbin,Walston,Technique Leader,6/28/90,1/1/99
+13979,Turgut,Highland,Engineer,6/8/86,6/8/95
+13979,Turgut,Highland,Senior Engineer,6/8/95,12/26/97
+13986,Geraldo,Ramsey,Staff,12/3/85,1/19/89
+13987,Huican,Fujisaki,Technique Leader,9/25/92,1/1/99
+13990,Deborah,Schapiro,Assistant Engineer,6/10/88,6/10/96
+13990,Deborah,Schapiro,Engineer,6/10/96,1/1/99
+13992,Ulises,Kenevan,Senior Staff,7/27/94,1/1/99
+13992,Ulises,Kenevan,Staff,7/27/88,7/27/94
+13993,Troy,Marciano,Senior Staff,2/15/00,1/1/99
+13993,Troy,Marciano,Staff,2/15/95,2/15/00
+13994,Tesuro,Remmele,Staff,5/5/99,7/15/00
+13996,Adib,Pews,Staff,12/23/99,4/1/00
+13999,Florian,Crouzet,Senior Staff,2/25/00,1/1/99
+13999,Florian,Crouzet,Staff,2/25/95,2/25/00
+14001,Mohammad,Wynblatt,Senior Staff,9/19/99,1/1/99
+14001,Mohammad,Wynblatt,Staff,9/19/91,9/19/99
+14005,Vojin,Stellhorn,Technique Leader,5/10/85,1/1/99
+14011,Katsuo,Peris,Engineer,12/10/99,1/1/99
+14012,Yishai,Hanratty,Senior Engineer,4/16/93,1/1/99
+14015,Manibrata,Picaronny,Senior Engineer,8/15/97,1/1/99
+14024,Naftali,Lukaszewicz,Engineer,5/3/89,5/3/98
+14024,Naftali,Lukaszewicz,Senior Engineer,5/3/98,1/1/99
+14030,Guadalupe,Hiroyama,Technique Leader,7/17/91,1/1/99
+14031,Joydip,Bashian,Engineer,1/19/95,1/1/99
+14034,Aloys,Seghrouchni,Senior Staff,8/26/91,1/1/99
+14034,Aloys,Seghrouchni,Staff,8/26/85,8/26/91
+14038,Tokuyasu,Plesums,Engineer,3/2/97,3/2/02
+14038,Tokuyasu,Plesums,Senior Engineer,3/2/02,1/1/99
+14039,Ugo,Butterworth,Assistant Engineer,11/9/99,1/1/99
+14041,Shan,DeMori,Senior Staff,12/22/95,1/1/99
+14041,Shan,DeMori,Staff,12/22/87,12/22/95
+14045,Ymte,Alpin,Staff,12/28/93,8/12/97
+14049,Becky,Pelz,Engineer,11/18/93,11/18/98
+14049,Becky,Pelz,Senior Engineer,11/18/98,1/1/99
+14051,Constantijn,Sullins,Senior Engineer,10/19/95,1/1/99
+14058,Huai,Kobara,Engineer,10/20/95,10/19/00
+14058,Huai,Kobara,Senior Engineer,10/19/00,1/1/99
+14066,Gennadi,Marrakchi,Staff,10/29/96,1/1/99
+14067,Godehard,Trachtenberg,Engineer,2/14/94,2/14/00
+14067,Godehard,Trachtenberg,Senior Engineer,2/14/00,1/1/99
+14074,Toshimori,Wendorf,Engineer,11/26/97,1/1/99
+14076,Erzsebet,Bratsberg,Engineer,1/31/96,6/15/02
+14077,Wojceich,Standera,Engineer,2/13/89,9/14/90
+14084,Deniz,Halloran,Engineer,10/25/99,1/1/99
+14086,Willard,Syrotiuk,Senior Staff,5/21/02,1/1/99
+14086,Willard,Syrotiuk,Staff,5/21/93,5/21/02
+14088,Mori,Leslie,Senior Staff,11/10/94,1/1/99
+14088,Mori,Leslie,Staff,11/10/87,11/10/94
+14093,Atreye,Ritzmann,Technique Leader,11/21/95,1/1/99
+14102,Feixiong,Jording,Engineer,4/3/89,2/21/91
+14105,Ramachenga,Orlowski,Staff,3/2/94,1/1/99
+14107,Xiahua,Rindone,Senior Staff,12/15/99,1/1/99
+14107,Xiahua,Rindone,Staff,12/15/91,12/15/99
+14109,Vesna,Haldar,Senior Engineer,12/12/99,1/1/00
+14111,Leszek,Cummings,Senior Staff,9/26/99,1/1/99
+14111,Leszek,Cummings,Staff,9/25/92,9/26/99
+14112,Younwoo,McDermid,Staff,11/26/99,1/1/99
+14113,Along,Herber,Engineer,11/17/85,1/24/88
+14118,Kasturi,Anido,Senior Staff,4/6/85,1/1/99
+14122,Masato,Erde,Senior Staff,6/4/00,1/1/99
+14122,Masato,Erde,Staff,6/5/94,6/4/00
+14128,Mountaz,Munck,Engineer,3/26/93,3/26/00
+14128,Mountaz,Munck,Senior Engineer,3/26/00,1/1/99
+14130,Yuuichi,Stroustrup,Staff,2/17/97,1/1/99
+14139,Sachin,Conry,Engineer,1/7/95,12/26/96
+14140,Kiam,Ramamoorthy,Senior Staff,3/21/98,1/1/99
+14146,Hauke,Sidou,Engineer,9/18/97,1/1/99
+14147,Sasan,Rande,Engineer,9/15/97,1/1/99
+14148,Jungsoon,Hartvigsen,Engineer,3/18/91,3/18/98
+14148,Jungsoon,Hartvigsen,Senior Engineer,3/18/98,1/1/99
+14150,Yuqun,Akiyama,Senior Staff,1/28/94,1/1/99
+14159,Theron,Marrakchi,Engineer,6/22/94,1/1/99
+14165,Aloke,Cunliffe,Senior Staff,7/21/97,1/1/99
+14165,Aloke,Cunliffe,Staff,7/21/89,7/21/97
+14167,Adas,Hertweck,Engineer,12/1/85,12/1/94
+14167,Adas,Hertweck,Senior Engineer,12/1/94,1/1/99
+14168,Jiann,Denis,Technique Leader,6/1/97,1/1/99
+14172,Vasilis,Nitsch,Senior Staff,6/5/00,1/1/99
+14172,Vasilis,Nitsch,Staff,6/6/94,6/5/00
+14182,Abdulla,Encarnacion,Senior Staff,6/6/90,1/1/99
+14191,Jiann,Luby,Engineer,1/16/87,1/15/93
+14191,Jiann,Luby,Senior Engineer,1/15/93,1/1/99
+14197,Adin,Chachaty,Senior Staff,1/20/93,12/24/00
+14197,Adin,Chachaty,Staff,1/21/87,1/20/93
+14199,Tomoyuki,Peek,Senior Engineer,3/31/95,1/1/99
+14200,Masali,Sankaranarayanan,Senior Staff,11/10/97,1/1/99
+14209,Masanao,Kusakabe,Senior Staff,4/6/88,1/1/99
+14214,TRUE,Swen,Assistant Engineer,12/19/98,1/1/99
+14217,Nimmagadda,Calkin,Senior Staff,4/2/02,1/1/99
+14217,Nimmagadda,Calkin,Staff,4/2/93,4/2/02
+14220,Tomofumi,Pargas,Senior Engineer,12/2/87,1/1/99
+14224,Guther,Conta,Staff,1/30/86,10/23/86
+14232,Masali,Bojadziev,Engineer,9/10/94,9/10/99
+14232,Masali,Bojadziev,Senior Engineer,9/10/99,1/1/99
+14233,Zijian,Blokdijk,Senior Staff,12/16/00,1/1/99
+14233,Zijian,Blokdijk,Staff,12/17/95,12/16/00
+14234,Alair,Servi,Staff,9/1/95,1/1/99
+14236,Xuedong,Angiulli,Senior Staff,11/7/88,1/1/99
+14237,Abdulla,Gerlach,Engineer,6/13/86,6/13/94
+14237,Abdulla,Gerlach,Senior Engineer,6/13/94,1/1/99
+14241,Zhonghui,Ranze,Senior Staff,11/28/99,1/1/99
+14241,Zhonghui,Ranze,Staff,11/28/90,11/28/99
+14242,Sudhanshu,Benaini,Senior Staff,6/27/92,1/1/99
+14242,Sudhanshu,Benaini,Staff,6/27/85,6/27/92
+14244,Mahmut,Mullainathan,Engineer,10/6/90,10/5/96
+14244,Mahmut,Mullainathan,Senior Engineer,10/5/96,1/1/99
+14245,Boalin,Byoun,Engineer,4/8/96,4/8/02
+14245,Boalin,Byoun,Senior Engineer,4/8/02,1/1/99
+14246,Subhada,Piazza,Senior Engineer,9/5/93,1/1/99
+14248,Mark,Alblas,Engineer,5/24/89,5/24/94
+14248,Mark,Alblas,Senior Engineer,5/24/94,1/1/99
+14251,Ingemar,Werthner,Senior Staff,9/21/90,1/1/99
+14252,Weiyi,Fargier,Staff,7/29/97,1/1/99
+14253,Mart,Mattern,Senior Staff,6/8/95,1/1/99
+14253,Mart,Mattern,Staff,6/8/89,6/8/95
+14254,Chikara,Narahara,Engineer,9/23/94,11/14/96
+14256,Gino,Ferriere,Assistant Engineer,5/31/94,5/31/95
+14257,Kwok,Massonet,Staff,2/4/98,1/1/99
+14259,Aleksandar,Kisuki,Engineer,5/30/96,5/30/01
+14259,Aleksandar,Kisuki,Senior Engineer,5/30/01,1/1/99
+14273,Atreye,Benveniste,Staff,6/22/95,1/1/99
+14275,Tristan,Aseltine,Senior Staff,6/30/99,11/17/00
+14277,Xiong,Gente,Technique Leader,4/27/92,1/1/99
+14279,Nevin,Schaaf,Senior Engineer,3/22/89,9/23/97
+14281,Hidekazu,Stavenow,Engineer,3/18/93,3/18/98
+14281,Hidekazu,Stavenow,Senior Engineer,3/18/98,1/1/99
+14285,Deborah,Peck,Senior Staff,6/28/98,1/1/99
+14285,Deborah,Peck,Staff,6/28/90,6/28/98
+14287,Masali,Highland,Senior Staff,6/4/98,11/10/99
+14287,Masali,Highland,Staff,6/4/92,6/4/98
+14289,Paraskevi,Gist,Assistant Engineer,3/16/99,5/9/01
+14290,Miyeon,Olivero,Senior Engineer,3/29/92,1/1/99
+14292,Susanna,Vigier,Senior Staff,2/18/97,1/1/99
+14292,Susanna,Vigier,Staff,2/19/88,2/18/97
+14293,Qunsheng,Middleton,Senior Staff,5/9/85,9/12/90
+14298,Chriss,Granlund,Engineer,1/7/96,1/6/01
+14298,Chriss,Granlund,Senior Engineer,1/6/01,1/1/99
+14302,Rosita,Comellas,Engineer,12/17/97,1/1/99
+14310,Marlo,Leuchs,Senior Staff,2/23/87,1/1/99
+14320,Sreenivas,Schaar,Engineer,6/30/86,6/29/92
+14320,Sreenivas,Schaar,Senior Engineer,6/29/92,1/1/99
+14321,Shugo,Falby,Senior Staff,6/2/00,1/1/99
+14321,Shugo,Falby,Staff,6/3/95,6/2/00
+14322,Shem,Kakkad,Engineer,11/19/99,1/1/99
+14323,Golgen,Leslie,Staff,8/5/97,1/1/99
+14326,Iara,Speckmann,Senior Engineer,8/11/99,1/1/99
+14327,Jianwen,Leaver,Engineer,12/28/91,12/28/99
+14327,Jianwen,Leaver,Senior Engineer,12/28/99,1/1/99
+14329,Nikolaus,Bakhtari,Senior Engineer,8/5/92,1/1/99
+14330,Felicidad,Brizzi,Senior Engineer,7/3/91,1/1/99
+14331,Susumu,Plessier,Engineer,10/4/95,10/3/00
+14331,Susumu,Plessier,Senior Engineer,10/3/00,1/1/99
+14332,Wilmer,Nitto,Engineer,9/17/92,9/17/00
+14332,Wilmer,Nitto,Senior Engineer,9/17/00,1/1/99
+14335,Mark,Fraisse,Technique Leader,11/6/99,1/1/99
+14340,Vitaly,Wixon,Engineer,12/19/86,12/19/95
+14340,Vitaly,Wixon,Senior Engineer,12/19/95,1/1/99
+14342,Hairong,Iacovou,Engineer,7/19/90,7/19/95
+14342,Hairong,Iacovou,Senior Engineer,7/19/95,1/1/99
+14344,Otilia,Buescher,Technique Leader,12/16/88,1/1/99
+14345,Barry,Ramsey,Engineer,4/6/85,7/15/90
+14354,Mong,Bojadziev,Senior Staff,8/28/90,1/1/99
+14354,Mong,Bojadziev,Staff,8/28/85,8/28/90
+14359,Henk,Leslie,Senior Staff,5/25/98,9/25/99
+14360,Janche,Erbe,Senior Staff,8/1/97,1/1/99
+14364,Remzi,Lund,Senior Staff,6/1/93,1/1/99
+14369,Hiroyasu,Cardazo,Engineer,12/4/89,12/4/95
+14369,Hiroyasu,Cardazo,Senior Engineer,12/4/95,1/1/99
+14370,Heon,Perl,Senior Staff,3/1/02,1/1/99
+14370,Heon,Perl,Staff,3/1/95,3/1/02
+14372,Saniya,Srimani,Engineer,12/26/99,1/1/99
+14380,Shigeu,Heemskerk,Senior Staff,1/29/94,1/20/97
+14380,Shigeu,Heemskerk,Staff,1/30/88,1/29/94
+14382,Zhigen,Sichman,Senior Staff,7/18/94,1/1/99
+14384,Tomofumi,Holburn,Technique Leader,2/13/88,1/1/99
+14385,Chanjung,Vendrig,Assistant Engineer,11/10/90,11/10/99
+14385,Chanjung,Vendrig,Engineer,11/10/99,1/1/99
+14388,Arch,Remmers,Senior Staff,1/8/96,1/1/99
+14388,Arch,Remmers,Staff,1/7/89,1/8/96
+14394,Kinh,Zaumen,Senior Staff,10/29/00,1/1/99
+14394,Kinh,Zaumen,Staff,10/30/91,10/29/00
+14395,Berni,Brizzi,Engineer,12/1/95,12/9/00
+14398,Kristinn,Parascandalo,Staff,7/26/99,1/1/99
+14406,Tsutomu,Tanemo,Senior Engineer,3/24/95,1/1/99
+14411,Hiroyasu,Validov,Technique Leader,9/5/97,1/1/99
+14418,Chriss,Kadhim,Engineer,12/9/95,1/1/99
+14422,Toshimo,Gadepally,Engineer,10/20/85,10/20/90
+14422,Toshimo,Gadepally,Senior Engineer,10/20/90,1/1/99
+14424,Chikako,Isard,Senior Engineer,7/16/90,1/1/99
+14434,Elvis,Maginnis,Technique Leader,9/21/89,1/1/99
+14436,Aloke,Gubsky,Assistant Engineer,7/13/93,7/13/01
+14436,Aloke,Gubsky,Engineer,7/13/01,1/1/99
+14439,Raimond,Woycyznski,Engineer,11/1/86,11/1/94
+14439,Raimond,Woycyznski,Senior Engineer,11/1/94,1/1/99
+14441,Divine,Manders,Engineer,3/9/87,5/25/90
+14446,Francoise,Rosen,Engineer,1/8/91,1/8/00
+14446,Francoise,Rosen,Senior Engineer,1/8/00,9/1/00
+14455,Kwangyoen,Sabnani,Senior Staff,12/30/96,1/1/99
+14455,Kwangyoen,Sabnani,Staff,12/31/90,12/30/96
+14456,Feiyu,Rehfuss,Engineer,11/20/89,11/20/95
+14456,Feiyu,Rehfuss,Senior Engineer,11/20/95,1/1/99
+14457,Erez,Wynblatt,Engineer,6/15/95,6/14/00
+14457,Erez,Wynblatt,Senior Engineer,6/14/00,1/1/99
+14460,Yagil,Lueh,Engineer,1/23/88,1/23/95
+14460,Yagil,Lueh,Senior Engineer,1/23/95,1/1/99
+14478,Munehiro,Boissier,Senior Staff,6/28/92,1/1/99
+14481,Moti,Lammel,Engineer,8/25/87,8/24/93
+14481,Moti,Lammel,Senior Engineer,8/24/93,1/1/99
+14483,Supot,Marrevee,Senior Engineer,1/30/86,1/1/99
+14484,Gift,Backhouse,Engineer,6/10/96,1/1/99
+14486,Indrajit,Birdsall,Engineer,8/12/94,8/12/99
+14486,Indrajit,Birdsall,Senior Engineer,8/12/99,1/1/99
+14490,Tran,Azulay,Staff,9/27/94,1/1/99
+14491,Baoqiu,Picht,Engineer,8/27/97,12/28/97
+14494,Yannis,Azadmanesh,Technique Leader,8/11/90,1/1/99
+14497,Armond,Molenkamp,Staff,11/8/97,1/1/99
+14498,Xiong,Selenyi,Senior Staff,10/17/94,1/1/99
+14498,Xiong,Selenyi,Staff,10/17/88,10/17/94
+14500,Rutger,Malabarba,Senior Engineer,7/15/89,1/1/99
+14501,Taizo,Kroft,Technique Leader,11/20/91,1/1/99
+14502,Abdulla,Simkin,Engineer,5/10/92,5/10/00
+14502,Abdulla,Simkin,Senior Engineer,5/10/00,1/1/99
+14509,Danil,Aloia,Senior Staff,12/16/01,1/1/99
+14509,Danil,Aloia,Staff,12/17/95,12/16/01
+14513,Samphel,Barreiro,Senior Staff,7/28/85,1/1/99
+14514,Fay,Denny,Senior Engineer,8/17/88,3/14/97
+14515,Kazuhisa,Versino,Engineer,2/19/91,2/19/96
+14515,Kazuhisa,Versino,Senior Engineer,2/19/96,1/1/99
+14516,Kristian,Underwood,Senior Staff,4/8/89,1/1/99
+14518,Patricia,Peir,Engineer,2/18/96,1/1/99
+14522,Chuanyi,Ranta,Senior Staff,1/14/90,1/1/99
+14524,Nobuyoshi,Trogemann,Staff,1/6/96,1/1/99
+14526,Arne,Grabner,Staff,6/20/97,1/1/99
+14530,Branimir,Luks,Engineer,2/2/99,1/1/99
+14533,Kensei,Borovoy,Senior Engineer,4/18/98,11/24/99
+14534,Heeju,Vecchi,Assistant Engineer,1/16/91,1/16/98
+14534,Heeju,Vecchi,Engineer,1/16/98,1/1/99
+14537,Babette,Engelmann,Engineer,3/17/89,3/17/94
+14537,Babette,Engelmann,Senior Engineer,3/17/94,1/1/99
+14539,Ashish,Danlos,Engineer,12/17/98,12/17/98
+14544,Licheng,Janetzko,Senior Staff,4/3/97,1/1/99
+14544,Licheng,Janetzko,Staff,4/4/90,4/3/97
+14548,Raimond,Ernst,Senior Staff,6/6/01,1/1/99
+14548,Raimond,Ernst,Staff,6/6/94,6/6/01
+14552,Ibibia,Snyers,Engineer,6/13/94,6/13/99
+14552,Ibibia,Snyers,Senior Engineer,6/13/99,1/1/99
